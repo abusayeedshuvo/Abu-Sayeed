@@ -1,0 +1,434 @@
+{
+  "verified_count": 7,
+  "complete_total": false,
+  "checked": "2026-11-09",
+  "articles": [
+    {
+      "id": 1,
+      "doi": "10.1136/bmjgh-2026-023672",
+      "status": "verified corresponding author",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13311683/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 2,
+      "doi": "10.1017/s1368980026101931",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087991/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 3,
+      "doi": "10.7189/jogh.15.04186",
+      "status": "verified corresponding author",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12247414/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 4,
+      "doi": "10.1371/journal.pone.0314116",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11828372/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 5,
+      "doi": "10.1177/02601060231200521",
+      "status": "verified corresponding author",
+      "source": "https://journals.sagepub.com/doi/10.1177/02601060231200521",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 6,
+      "doi": "10.1016/j.gsd.2021.100561",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7871103/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 7,
+      "doi": "10.1080/19315260.2020.1713957",
+      "status": "verified corresponding author",
+      "source": "https://www.researchgate.net/publication/338555660_Nutritional_status_of_exotic_and_indigenous_vegetables",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 8,
+      "doi": "10.1038/s41598-023-27394-w",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1038/s41598-023-27394-w",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 9,
+      "doi": "10.1016/j.childyouth.2020.105424",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/j.childyouth.2020.105424",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 10,
+      "doi": "10.1016/j.childyouth.2020.105658",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7833817/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 11,
+      "doi": "10.1016/j.childyouth.2020.105771",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/j.childyouth.2020.105771",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 12,
+      "doi": "10.1080/07448481.2021.1944168",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1080/07448481.2021.1944168",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 13,
+      "doi": "10.24869/psyd.2020.491",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.24869/psyd.2020.491",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 14,
+      "doi": "10.1017/s1368980020005042",
+      "status": "verified corresponding author",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8025083/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 15,
+      "doi": "10.1186/s40795-022-00517-8",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8941835/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 16,
+      "doi": "10.1080/09603123.2020.1802409",
+      "status": "verified corresponding author",
+      "source": "https://doi.org/10.1080/09603123.2020.1802409",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 17,
+      "doi": "10.1007/s10389-021-01636-5",
+      "status": "verified corresponding author",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8363488/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 18,
+      "doi": "10.1136/bmjgh-2026-023742",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13343089/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 19,
+      "doi": "10.1093/cdn/nzac109",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9362760/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 20,
+      "doi": "10.1016/j.eatbeh.2021.101474",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/j.eatbeh.2021.101474",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 21,
+      "doi": "10.1080/07448481.2020.1851695",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1080/07448481.2020.1851695",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 22,
+      "doi": "10.1186/s40337-022-00680-0",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9662779/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 23,
+      "doi": "10.1016/j.puhip.2020.100030",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9461558/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 24,
+      "doi": "10.1186/s13104-023-06555-0",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10619219/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 25,
+      "doi": "10.1080/15378020.2020.1870785",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1080/15378020.2020.1870785",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 26,
+      "doi": "10.1016/j.lansea.2023.100342",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC467075/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 27,
+      "doi": "10.7189/jogh.14.05014",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11116929/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 28,
+      "doi": "10.1186/s13690-023-01155-7",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10464052/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 29,
+      "doi": "10.7189/jogh.16.04077",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12983048/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 30,
+      "doi": "10.7189/jogh.16.04069",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12947717/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 31,
+      "doi": "10.1016/j.srhc.2023.100892",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/j.srhc.2023.100892",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 32,
+      "doi": "10.7189/jogh.16.04101",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13030114/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 33,
+      "doi": "10.1016/j.jhin.2023.11.023",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/j.jhin.2023.11.023",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 34,
+      "doi": "10.1016/j.puhip.2024.100573",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11743345/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 35,
+      "doi": "10.1016/j.srhc.2024.100973",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/j.srhc.2024.100973",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 36,
+      "doi": "10.2196/78514",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12505400/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 37,
+      "doi": "10.7189/jogh.15.04020",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11719741/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 38,
+      "doi": "10.1186/s13690-025-01592-6",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11995601/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 39,
+      "doi": "10.7189/jogh.15.04097",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12142566/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 40,
+      "doi": "10.1371/journal.pone.0334520",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12617875/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 41,
+      "doi": "10.1186/s13690-024-01423-0",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11552216/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 42,
+      "doi": "10.7189/jogh.14.05040",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11583111/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 43,
+      "doi": "10.7189/jogh.15.04183",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12231468/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 44,
+      "doi": "10.1186/s12889-024-19355-3",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11321164/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 45,
+      "doi": "10.1016/s2214-109x(23)00432-1",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/s2214-109x(23)00432-1",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 46,
+      "doi": "10.1016/S0140-6736(24)00476-8",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/S0140-6736(24)00476-8",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 47,
+      "doi": "10.1016/s0140-6736(24)00550-6",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/s0140-6736(24)00550-6",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 48,
+      "doi": "10.1016/S0140-6736(24)00685-8",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/S0140-6736(24)00685-8",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 49,
+      "doi": "10.1016/S0140-6736(24)00933-4",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/S0140-6736(24)00933-4",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 50,
+      "doi": "10.1016/s0140-6736(24)00367-2",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/s0140-6736(24)00367-2",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 51,
+      "doi": "10.7189/jogh.15.04193",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12231484/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 52,
+      "doi": "10.1016/j.diabres.2022.109210",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/j.diabres.2022.109210",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 53,
+      "doi": "10.1016/j.heliyon.2021.e06401",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7969900/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 54,
+      "doi": "10.1016/j.jadr.2021.100103",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7848508/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 55,
+      "doi": "10.1016/j.scitotenv.2021.147962",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1016/j.scitotenv.2021.147962",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 56,
+      "doi": "10.7189/jogh.14.05028",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11505652/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 57,
+      "doi": "10.1007/s00737-025-01564-3",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12436553/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 58,
+      "doi": "10.1007/s11356-021-14160-6",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1007/s11356-021-14160-6",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 59,
+      "doi": "10.1080/09603123.2020.1724271",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.1080/09603123.2020.1724271",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 60,
+      "doi": "10.2196/54710",
+      "status": "not counted; no verified positive finding",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11555453/",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    },
+    {
+      "id": 61,
+      "doi": "10.2174/1381612826666201106093912",
+      "status": "not counted; no verified positive finding",
+      "source": "https://doi.org/10.2174/1381612826666201106093912",
+      "notes": "Only positive correspondence confirmations are included in the displayed count. A missing tag does not establish non-corresponding authorship."
+    }
+  ]
+}
