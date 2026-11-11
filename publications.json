@@ -8,7 +8,18 @@
     "corresponding_author_verified": true,
     "correspondence_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13311683/",
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Availability and readiness of health facilities to provide emergency obstetric care in eight low- and lower-middle-income countries: insights from nationally representative health facility surveys.",
+    "abstract_paragraphs": [
+      "Background",
+      "Despite progress in reducing global maternal mortality in recent decades, low- and lower-middle-income countries (LLMICs) continue to face major challenges. To reduce preventable maternal deaths, the WHO recommends emergency obstetric care (EmOC) in health facilities (HFs). However, up-to-date multi-country evidence on availability and readiness in LLMICs remains very limited. Hence, we analysed EmOC service availability and readiness in HFs across eight LLMICs.",
+      "Methods",
+      "We did a multi-country facility-based analysis of data from nationally representative Service Provision Assessment (SPA) surveys conducted between 2014 and 2022 in eight LLMICs (Afghanistan, Bangladesh, Democratic Republic of the Congo, Ethiopia, Haiti, Nepal, Senegal and Tanzania). A total of 4,382 facilities offering normal delivery services were included in the analysis. Service availability was assessed using seven signal functions for basic EmOC (BEmOC) with an additional two for comprehensive EmOC (CEmOC). The readiness score was calculated across three equally weighted domains-staff training and guidelines, essential equipment and supplies and essential medicines, resulting in a total score of 100. Descriptive statistics and multivariable regression were used to analyse the data.",
+      "Results",
+      "The average availability of BEmOC services was 13%, ranging from 2% in Nepal to 47% in Ethiopia. For CEmOC, average availability was 5%, ranging from 2% in Nepal to 19% in Afghanistan. Among facilities providing caesarean delivery services, 11% lacked blood transfusion services on average-this was highest in Bangladesh (20%), followed by Tanzania (12%) and Afghanistan (11%). Overall, the mean EmOC readiness score was 47, ranging from 40 in Tanzania to 60 in Ethiopia.",
+      "Conclusion",
+      "The availability of BEmOC and CEmOC services and the related readiness of HFs were low. This study reveals critical gaps in selected LLMICs, including where facilities perform caesarean deliveries without having blood transfusion services. If not addressed, these gaps will limit the contribution of EmOC to reducing maternal mortality in LLMICs."
+    ]
   },
   {
     "id": 2,
@@ -19,7 +30,22 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Trends of childhood Composite Index of Anthropometric Failure prevalence, determinants and inequity in Bangladesh: insights from Bangladesh Demographic and Health Surveys.",
+    "abstract_paragraphs": [
+      "Objective",
+      "The childhood Composite Index of Anthropometric Failure (CIAF) effectively identifies multiple anthropometric deficits among under-five children. This study aimed to analyse undernutrition among under-five children, as measured by childhood CIAF, to evaluate trends, determinants and disparities in Bangladesh between 2007 and 2022.",
+      "Design",
+      "The study utilised data from five rounds of the nationally representative cross-sectional Bangladesh Demographic and Health Survey (BDHS) conducted in 2007, 2011, 2014, 2017-2018 and 2022. The CIAF was estimated using six mutually exclusive anthropometric failure categories in accordance with the WHO child growth standards. Multivariable logistic regression was performed to explore determinants of CIAF. The concentration index and concentration curve were used to assess the changes in inequity.",
+      "Setting",
+      "Bangladesh.",
+      "Participants",
+      "32 096 under-five children.",
+      "Results",
+      "The prevalence of childhood CIAF declined significantly from 56 % (95 % CI: 55, 58) in 2007 to 35 % (95 % CI: 33, 36) in 2022. The significant reduction in 'stunting and underweight' from 23 % (95 % CI: 22, 24) in 2007 to 11 % (95 % CI: 10, 12) in 2022 was a major contributor to the decrease in childhood CIAF. Child age, household socio-economic status (SES) and mother's education were significant determinants of childhood CIAF across all study periods. Negative concentration indices for SES, residence and mother's and father's education indicate pro-poor inequality in childhood CIAF, which declined from 2007 to 2022.",
+      "Conclusions",
+      "Despite significant progress, disparities in childhood CIAF across SES, residence and parental education persist in Bangladesh. Targeted policy interventions are crucial to mitigating childhood undernutrition and achieving Sustainable Development Goal 2.2."
+    ]
   },
   {
     "id": 3,
@@ -30,7 +56,18 @@
     "corresponding_author_verified": true,
     "correspondence_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12247414/",
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Setting stakeholder-led research priorities for advancing Sexual and Reproductive Health and Rights in Bangladesh using CHNRI method: an icddr,b initiative.",
+    "abstract_paragraphs": [
+      "Background",
+      "Sexual and reproductive health and rights (SRHR) are essential for individuals' health, well-being, survival, and economic development. A stakeholder-led approach to research prioritisation was essential to guide SRHR-related research in Bangladesh. Accordingly, we conducted a research prioritisation exercise to identify health research priorities related to SRHR in Bangladesh.",
+      "Methods",
+      "We adopted the Child Health and Nutrition Research Initiative (CHNRI) method for this study. Five themes - adolescent Health (AH), fertility, gynaecological issues (GI), maternal and neonatal health (MNH), and SRH of key populations (SRHKP) - were selected from the broader field of SRHR. Seventy-six experts submitted 454 research questions (RQs), which were then condensed into 197 unique RQs and distributed to all experts for scoring based on five pre-selected criteria. Weighted and unweighted research priority scores (RPS) and average expert agreement (AEA) were calculated to compile a list of top-ranked RQs.",
+      "Results",
+      "The weighted RPSs for the 197 RQs ranged from 0.944 to 0.623, with a median of 0.848. Among the top 20 list, six RQs belonged to AH, one to Fertility, two to GI, six to MNH, and five to SRHKP. For AH, top ranked RQs included adolescent pregnancy, sexual health education, and mental health. Promoting proper birth spacing among newlywed and underaged married women were top RQs for fertility. GI priorities emphasised early detection of gynaecological cancers, including HPV testing for cervical cancer screening. The MNH research focused on Newborn Stabilizing Units at sub-district hospitals, PPH bundle approaches, and counselling on danger signs to prevent adverse birth outcomes. The top-ranked RQs in SRHKP addressed stigma and discrimination towards key populations (KPs) and their impact on SRH behaviours. There was significant overlap between the top 20 RQs ranked by RPS and AEA.",
+      "Conclusions",
+      "The study emphasises the need for intervention research to address barriers, assess effectiveness, and enhance the uptake of evidence-based and innovative interventions for SRHR in Bangladesh."
+    ]
   },
   {
     "id": 4,
@@ -41,7 +78,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Measuring progress in availability and readiness of Basic emergency obstetric and newborn care (BEmONC) services in Bangladesh, 2014-2017.",
+    "abstract_paragraphs": [
+      "Increasing the availability and readiness of basic emergency obstetric and newborn care (BEmONC) services is essential for improving maternal and neonatal health. However, little is known about any progress made in the availability and readiness of BEmONC services in Bangladesh. Using nationally representative data from the Bangladesh Health Facility Survey conducted between 2014 and 2017, we measured changes in the availability and readiness of BEmONC services in health facilities in Bangladesh, calculating the BEmONC service availability and readiness scores according to the World Health Organization Service Availability and Readiness Assessment guideline. The percentage of health facilities performing all seven basic signal functions declined slightly from 13% in 2014 to 11% in 2017. The decline was largely noticed in Maternal and Child Welfare Centers, Upazila Health Complexes, and Union Subcenter/Rural Dispensaries, as well as in all divisions except Rangpur. No remarkable changes in overall readiness of health facilities across location, division and facility type were observed between 2014 and 2017. However, significant reductions in availability and readiness were noticed when item-specific assessment was made. Type of health facility was significantly associated with both availability and readiness scores in adjusted regression models. Appropriate strategies and efforts could improve the availability and readiness of BEmONC services in health facilities in Bangladesh."
+    ]
   },
   {
     "id": 5,
@@ -52,7 +93,11 @@
     "corresponding_author_verified": true,
     "correspondence_source": "https://journals.sagepub.com/doi/10.1177/02601060231200521",
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Contribution of socio-economic and demographic factors to maternal and child malnutrition in Bangladesh: Insights from a nationwide survey.",
+    "abstract_paragraphs": [
+      "Background: Malnutrition is a major global public health issue, especially for under five children and their mothers. Objective: This study examined the relationships between socio-economic and demographic characteristics and under- and over-nutrition in mothers and children of Bangladesh. Method: Using the Nationally representative Bangladesh Demographic and Health Survey (2017-18) data, we performed the multiple logistic regression analysis to assess the relationships between key outcome variables and predictors. The analysis included 8321 children aged 0-59 months and 7800 mothers aged 15-49 years. Findings: The prevalence of stunting, wasting, and overweight among children under five was 30.72%, 8.44%, and 2.21% respectively. About 2.74% of the children were both stunted and wasted, while 0.56% of the children were both stunted and overweight. The prevalence of underweight and overweight among mother was 14.09% and 26.35% respectively. Children who are stunted are significantly associated with the mother's BMI status, mothers' education, fathers' education, and wealth index, while children who are wasted are significantly associated with the mother's BMI status and the child's sex. A child's sex and birth order are significantly associated with children being overweight. Mother's age, mother's education, father's education, place of residence and wealth index are significant determinants for mothers being underweight, whereas mother's age, mother's occupation, father's education, father's occupation, place of residence and wealth index are significant determinants for mothers being overweight. Conclusion: In addition to essential nutrition interventions, it is vital to address the basic social-economic and demographic determinants."
+    ]
   },
   {
     "id": 6,
@@ -63,7 +108,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Handwashing with soap: A concern for overuse of water amidst the COVID-19 pandemic in Bangladesh.",
+    "abstract_paragraphs": [
+      "Handwashing is one of the vital public health measures. It helps to prevent the spread of the COVID-19 pandemic. However, water overuse during hand scrubbing with soap keeping the tap on may put enormous pressure on the already overstretched groundwater resources and households' economic well-being. Therefore, this study aimed to determine the overuse of water while scrubbing hands with soap for handwashing when the tap is on amid the COVID-19 pandemic in Bangladesh. Sociodemographic data were collected using a web-based survey tool among 1980 participants and an experiment was conducted among 126 participants to estimate the overuse of water during hand scrubbing while the tap is on. A total of 80% of the participants washed their hands regularly after returning home from outside. About 57.3% of participants did not turn off their tap throughout the handwashing process. A single participant, who kept his tap on throughout the handwashing process, overused approximately 1.7 L of water per handwash and 14.9 L of water per day. Hand scrubbing with soap keeping the tap on, raised the overuse of water 13-fold during this pandemic compared to the non-pandemic situation which cost an extra 225.0 BDT (2.7$) per day for 1980 participants. Minimize the speed of tap, using automatic taps, and using taps operated by legs might be an effective solution to reduce the water overuse. Furthermore, behavioral change interventions are needed to aware people turn off the tap during hand scrubbing with soap."
+    ]
   },
   {
     "id": 7,
@@ -74,7 +123,11 @@
     "corresponding_author_verified": true,
     "correspondence_source": "https://www.researchgate.net/publication/338555660_Nutritional_status_of_exotic_and_indigenous_vegetables",
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Nutritional status of exotic and indigenous vegetables",
+    "abstract_paragraphs": [
+      "Indigenous vegetables are available at low cost but there is little information about their nutritional composition. The study was conducted to compare the nutritional status of exotic and indigenous vegetables. Most indigenous vegetables contained more minerals than exotic vegetables. Potassium was the most abundant macro-element (135–746 mg/100 g) followed by phosphorus (16–98 mg/100 g). The most calcium was in leaves of Colocasia esculenta (L) (238 mg/100 g). The most magnesium (91 mg/100 g) and Vitamin-C (76 mg/100 g) was in Nymphaea nouchali (Burman) bulb, and Brassica oleracea (L), respectively. Regular consumption of indigenous vegetables may meet nutritional requirements in the human diet."
+    ]
   },
   {
     "id": 8,
@@ -85,7 +138,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Investigating problematic uses of Facebook and other Internet activities among university students in Bangladesh during the COVID-19 pandemic.",
+    "abstract_paragraphs": [
+      "Problematic use of Internet (PUI) and problematic use of Facebook (PUF) has been linked to escalating behavioral health issues among university students and has increased during the COVID-19 pandemic. This study estimated the prevalence of and explored associated factors for PUI and PUF among Bangladeshi university students during the COVID-19 pandemic. A cross-sectional online survey was undertaken among 1101 Bangladeshi university students between November and December 2020. The Internet Addiction Test and Facebook Addiction Scale were used to assess PIU and PUF, respectively. A multiple linear regression analysis was performed to adjust for confounders. Among the participants, PUI and PUF were found in 39.3% and 37.1%, respectively. The multiple linear regression model indicated PUI was significantly associated with participants residing in a village, arts majors, those unsatisfied with their major, having mediocre parental relationships, failure in romantic relationships, physical comorbidities, longer use of the Internet, using the Internet for purposes other than education, using social media, and downloading movies/TV series. PUF was significantly associated with village residence, lower income, arts majors, failure in romantic relationships, longer use of the Internet, using the Internet for purposes other than education, and downloading movies/TV series. Both PUI and PUF have been prevalent among Bangladeshi university students during the COVID-19 pandemic. Longitudinal & exploratory studies are warranted in the future to identify causal factors for PUI and PUF and appropriate interventions should be designed quickly for this population."
+    ]
   },
   {
     "id": 9,
@@ -96,7 +153,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Facebook addiction associated with internet activity, depression and behavioral factors among university students of Bangladesh: A cross-sectional study",
+    "abstract_paragraphs": [
+      "Facebook addiction (FA) has been suggested as a potential behavioral addiction. Data about FA among university students in Bangladesh has been scarce despite being a research topic of growing interest. This study aimed to determine the prevalence of FA and its related factors amongst university students in Bangladesh. A cross-sectional study was conducted between February to March 2020 within two Bangladeshi universities (i.e., Patuakhali Science and Technology University and Barishal University) residing in the southern territory of the country. Data were collected on socio-demographic characteristics, behavioral and online activities. The Bergen Facebook Addiction Scale and the Beck Depression Inventory-21 Scale were used to access the risk of FA, and depressive symptoms of students. About 36.9% of the students were identified as at risk of Facebook addiction using 18 as the cutoff score out of 30 on the Bergen Facebook Addiction Scale. The risk factors of Facebook addiction were predicted to be failure in love, having history of domestic violence, having stressful life event, sufferings from sleep disturbance (i.e., more than 8 h sleep status compared to 6–8 h normal status), spending more than 5 h daily time on Facebook, and having symptoms of depression. Future research should use longitudinal designs to identify FA contributing factors among university students in Bangladesh."
+    ]
   },
   {
     "id": 10,
@@ -107,7 +168,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Mental health outcomes during the COVID-19 and perceptions towards the pandemic: Findings from a cross sectional study among Bangladeshi students.",
+    "abstract_paragraphs": [
+      "Although the COVID-19 pandemic triggered commination on both physical and mental wellbeing since its outbreak, the impact of the pandemic on mental health difficulties among Bangladeshi students is still lack in substantial evidence. The study aimed to explore such an impact on mental health among Bangladeshi students and their perception towards the COVID-19 pandemic. A web-based cross-sectional study was conducted among 589 students from Bangladesh in between April 29th to 7th May 2020. Data was collected by using an online questionnaire on demographic status, perceptions towards COVID-19, and mental health symptoms by using the Depression, Anxiety and Stress Scale (DASS 21). About 26.66% and 61.97% of students reported mild to extremely severe anxiety symptoms, and depressive symptoms, respectively, and 57.05% reported mild to extremely severe levels of stress. Multivariate logistic regression reported that students' age, gender, family income, residence, and family size are associated with mental health difficulties. Negative perceptions on the effect of the pandemic on life events, mental health, disruptions in education, and health care system, existing physical health conditions, and COVID-19 like symptoms were significantly associated with poor mental outcomes. It is suggested that students' mental health difficulties should be monitored to provide adequate support and services during this ongoing pandemic."
+    ]
   },
   {
     "id": 11,
@@ -118,7 +183,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Problematic internet use associated with depression, health, and internet-use behaviors among university students of Bangladesh: A cross-sectional study",
+    "abstract_paragraphs": [
+      "Problematic Internet Use (PIU) is a growing behavioral health problem among university students globally. Data on PIU among university students in Bangladesh is scarce despite growing interest in the research topic. This study aimed to determine the prevalence of PIU and its relationship with depressive symptoms, health, and internet-use behaviors among university students in Bangladesh. A cross-sectional study among 404 students was conducted between February and March 2020 within two Bangladeshi universities residing in the southern territory of the country. Data were collected on socio-demographic characteristics, health, and internet-use behaviors. The Internet Addiction Test (IAT) and the Beck Depression Inventory-21 scale were used to assess the risk of PIU and depressive symptoms of students. Among the study sample, nearly 44% (95% CI: 39.9–48.8) of the participants exhibited PIU. PIU was predicted by gender (p = 0.039), experiencing a breakup (p < 0.001), depressive symptoms (p = 0.010), and non-educational internet use (p = 0.010); particularly usage of chat rooms (p = 0.025), online gaming (p = 0.039), and watching YouTube videos (p = 0.024). Targeting populations that engage in these internet-use behaviors for enrollment in low-intensity online interventions may aid in the prevention and control of PIU among university students."
+    ]
   },
   {
     "id": 12,
@@ -129,7 +198,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Prevalence and associated factors of depression among Bangladeshi university students: A cross-sectional study.",
+    "abstract_paragraphs": [
+      "Objective:  The study aimed to assess the prevalence of depression and its associated factors among university students in Bangladesh. Participants: A total of 403 undergraduate students from Patuakhali Science and Technology University, and Barisal University participated in the study. Method: A cross-sectional study was conducted using Beck's Depression Inventory (BDI). Result: The prevalence of depression (BDI ≥ 14) was 47.14%. Depression was 3.4 times (95% CI: 1.6-7.1), 3.8 times (95% CI: 1.7-8.6), and 3.9 times (95% CI: 1.5-8.9) higher among 2nd, 3rd, and 4th-year students, respectively than 1st-year students. Students with a history of stressful life events (aOR = 2.7, 95% CI: 1.7-4.4), suicidal attempts (aOR = 3.0, 95% CI: 1.2-7.9), and who received inadequate monthly allowance from their family (aOR = 0.53 95% CI: 0.3-0.9) were more likely to develop depressive symptoms. Conclusion: This study reports a high level of depression among university students which needs further discussion, exploration, and calls for designing appropriate interventions."
+    ]
   },
   {
     "id": 13,
@@ -140,7 +213,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Mental Health Outcomes of Adults with Comorbidity and Chronic Diseases during the COVID-19 Pandemic: A Matched Case-Control Study.",
+    "abstract_paragraphs": [
+      "Background",
+      "Individuals with certain pre-existing chronic health conditions have been identified as a high-risk group for fatalities of COVID-19. Therefore, it is likely that individuals with chronic diseases may worry during this pandemic to the detriment of their mental health. This study compares the mental health of Bangladeshi adults affected by chronic disease to a healthy, matched control group during the COVID-19 pandemic.",
+      "Subjects and methods",
+      "A matched case-control analysis was performed with data collected from 395 respondents with chronic diseases and 395 controls matched for age, gender, and residence. Inclusion criteria for cases were respondents who self-reported having asthma, cardiovascular disease symptoms and/or diabetes. Respondents were recruited using an online survey, which included the DASS-21 measure to assess symptoms of stress, anxiety, and depression. Chi-square test, t-test, Fisher's exact test and a conditional logistic regression were performed to examine associations among variables.",
+      "Results",
+      "The prevalence of anxiety symptoms and depression symptoms and the level of stress were significantly higher among cases (59%; 71.6%; 73.7%, respectively) than among controls (25.6%; 31.1%; 43.3%, respectively). Chi-square and t-test showed significant associations and differences between having chronic diseases and mental health outcomes. A conditional logistic regression showed that respondents with asthma, diabetes, cardiovascular disease symptoms, or any combination of these diseases had higher odds of exhibiting symptoms of stress, anxiety, and depression than healthy individuals.",
+      "Conclusion",
+      "These results underscore a subpopulation vulnerable to mental health consequences during this pandemic and indicate the need for additional mental health resources to be available to those with chronic diseases."
+    ]
   },
   {
     "id": 14,
@@ -151,7 +235,22 @@
     "corresponding_author_verified": true,
     "correspondence_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8025083/",
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Determinants of household food security and dietary diversity during the COVID-19 pandemic in Bangladesh.",
+    "abstract_paragraphs": [
+      "Objectives",
+      "The study aimed to determine the associated factors of household food security (HFS) and household dietary diversity (HDD) during the COVID-19 pandemic in Bangladesh.",
+      "Design",
+      "Both online survey and face-to-face interviews were employed in this cross-sectional study. The Household Food Security Scale and Household Dietary Diversity Score were used to access HFS and HDD, respectively. The HDD scores were derived from a 24-h recall of food intake from 12 groups.",
+      "Setting",
+      "Bangladesh.",
+      "Participants",
+      "A total sample of 1876 households were recruited.",
+      "Results",
+      "The overall mean scores of HFS and HDD were 31·86 (sd 2·52) and 6·22 (sd 5·49), respectively. Being a rural resident, having no formal education, occupation of household head other than government job and low monthly income were potential determinants of lower HFS and HDD. Approximately 45 % and 61 % of Bangladeshi households did not get the same quantity and same type of food, respectively, as they got before the pandemic. Over 10 % of respondents reported that they lost their job or had to close their businesses, and income reduction was reported by over 70 % of household income earners during the COVID-19 pandemic, which in turn was negatively associated with HFS and HDD.",
+      "Conclusion",
+      "Household socio-economic variables and COVID-19 effects on occupation and income are potential predictors of lower HFS and HDD scores. HFS and HDD deserve more attention during this pandemic particularly with reference to low-earning households and the households whose earning persons' occupation has been negatively impacted during the COVID-19 pandemic."
+    ]
   },
   {
     "id": 15,
@@ -162,7 +261,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Factors associated with household food insecurity and dietary diversity among day laborers amid the COVID-19 pandemic in Bangladesh.",
+    "abstract_paragraphs": [
+      "Backgrounds",
+      "Food insecurity and dietary diversity remain a public health concern in developing countries like Bangladesh which is exacerbated by the COVID-19 especially for day laborers' families in Bangladesh. This study aimed to determine factors associated with household food insecurity and household dietary diversity among day laborers during the COVID-19 pandemic in Bangladesh.",
+      "Methods",
+      "This cross-sectional study was conducted among 343 households of day laborers in Bangladesh using a semi-structured questionnaire. Household food security (HFS) and Household dietary diversity (HDD) scores were assessed using the HFS scale and household's 24-h recall of intake of 12 food groups, respectively.",
+      "Results",
+      "The overall mean scores of HFS and HDD were 26.80 (SD, 4.83) and 4.08 (SD, 1.15). Having household head aged > 40 years and monthly household income > 5000 Bangladeshi Taka (BDT) were positively associated with HDD scores. Having an education level above secondary, monthly household income > 5000 BDT, and having a refrigerator were associated with the higher HFS scores, whereas having family members > 5 was a potential determinant of lower HFS scores. Pandemic-induced work loss and food scarcity were also potential determinants of lower HFS and HDD scores. Approximately 94% of respondents reported their wages were reduced, and 76% were deprived of the same quantity of food as pre-pandemic periods.",
+      "Conclusions",
+      "Lower socio-economic status and pandemic-induced work loss affect the HFS and HDD. Interventions with financial aid and complemented food distributions, particularly among the wage looser, may improve the HFS and HDD of day laborers."
+    ]
   },
   {
     "id": 16,
@@ -173,7 +283,11 @@
     "corresponding_author_verified": true,
     "correspondence_source": "https://doi.org/10.1080/09603123.2020.1802409",
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "The impact of the COVID-19 pandemic on the mental health of the adult population in Bangladesh: a nationwide cross-sectional study.",
+    "abstract_paragraphs": [
+      "The recent COVID-19 pandemic has imposed threats on both physical and mental health since its outbreak. This study aimed to explore the impact of the COVID-19 pandemic on mental health among a representative sample of home-quarantined Bangladeshi adults. A cross-sectional design was used with an online survey completed by a convenience sample recruited via social media. A total of 1,427 respondents were recruited, and their mental health was assessed by the DASS-21 measure. The prevalence of anxiety symptoms and depressive symptoms was 33.7% and 57.9%, respectively, and 59.7% reported mild to extremely severe levels of stress. Perceptions that the pandemic disrupted life events, affected mental health, jobs, the economy and education, predictions of a worsening situation, and uncertainty of the health care system capacities were significantly associated with poor mental health outcomes. Multivariate logistic regressions showed that sociodemographic factors and perceptions of COVID-19 significantly predict mental health outcomes. These findings warrant the consideration of easily accessible low-intensity mental health interventions during and beyond this pandemic."
+    ]
   },
   {
     "id": 17,
@@ -184,7 +298,18 @@
     "corresponding_author_verified": true,
     "correspondence_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8363488/",
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Knowledge, attitudes, and preventive practices toward the COVID-19 pandemic: an online survey among Bangladeshi residents.",
+    "abstract_paragraphs": [
+      "Aim",
+      "The novel coronavirus (SARS-CoV-2) has rapidly infected people worldwide, leading to a massive public reaction. Peoples' knowledge, attitudes, and practices (KAP) toward COVID-19 are the most important for the control and prevention of the infectious disease pandemic. This study aimed to assess the knowledge, attitude, and preventive practices (KAP) toward the COVID-19 among Bangladeshi residents during the lockdown situation.",
+      "Subjects and methods",
+      "An online-based cross-sectional survey was conducted among 1765 Bangladeshi adults through the social media networks of the authors.",
+      "Results",
+      "The respondents were older than 18 years, with an average age of 24.88 years (SD 6.30). Approximately 15% of our participants received online training. The mean knowledge score was 14.49 (SD 1.8, range 0-17), and the overall correct response rate on this knowledge test was 85%. Approximately 67.2% scored well (above the mean 4.5, range 1-5) regarding the practices. To avoid the infection, 96.6% wore masks outside the home, and 98.7% washed their hands with soap when they came back. COVID-19 knowledge score was significantly associated with a lower odds of (OR 0.87, 95% CI 0.79-0.92) negative attitudes. Again, the awareness score was associated with a lower likelihood of (OR 0.94, 95% CI 0.87-0.98) poor practices.",
+      "Conclusion",
+      "Online health education programs focusing on young people, housewives, and people with less education may potentially improve the attitudes and practices to control the COVID-19 pandemic in the long term in such a low-resource setting."
+    ]
   },
   {
     "id": 18,
@@ -195,7 +320,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Prevalence and determinants of premature or early menopause: a pooled analysis of 716 648 women from 44 low- and middle-income countries.",
+    "abstract_paragraphs": [
+      "Background",
+      "Premature (<40 years) or early (40-44 years) menopause is associated with increased risks of cardiovascular disease, osteoporosis and premature mortality. Low- and middle-income countries (LMICs) appear to have a higher prevalence, although multicountry comparative data are scarce. Therefore, this study aimed to estimate the pooled prevalence and determinants of premature or early menopause among women aged 30-49 years in 44 LMICs.",
+      "Methods",
+      "The most recent round of Demographic and Health Surveys from 44 countries conducted since 2015 was pooled together, accounting for 716 648 women aged 30-49. Premature or early menopause was defined as cessation of menstruation for ≥6 months, self-reported menopause or hysterectomy before age 45. We calculated pooled weighted prevalence with 95% CIs and used multivariable logistic regression to identify associated factors, accounting for complex survey design.",
+      "Results",
+      "The pooled prevalence of premature or early menopause was 7.1% (95% CI 7.0% to 7.2%). Country-level prevalence ranged from 2.3% in Jordan and 2.6% in Gabon to 12% in Ethiopia and 11.5% in Indonesia. Prevalence was consistently higher in rural than urban areas across all regions, with South Asia and East Asia and Pacific showing the highest regional burden. In multivariable analysis, higher education, employment, marriage at age 18 years or older, first birth at age 18 years or older and parity of three or more children were associated with lower odds of early menopause. Conversely, middle wealth index and rural residence were associated with increased odds of premature or early menopause.",
+      "Conclusion",
+      "Premature or early menopause affects 1 in 14 women aged 30-49 in LMICs, with marked rural disadvantage and strong protective effects of education and delayed childbearing. Findings underscore the urgent need to integrate menopause into reproductive health and non-communicable disease programmes, particularly targeting rural areas and addressing social determinants, including girls' education and delayed marriage."
+    ]
   },
   {
     "id": 19,
@@ -206,7 +342,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Exploring the Factors Associated with Dietary Diversity of Children Aged 6-59 Months in Some Rural and Slum Areas of Bangladesh amid the COVID-19 Pandemic: A Mixed-Effect Regression Analysis.",
+    "abstract_paragraphs": [
+      "Background",
+      "Dietary diversity (DD) is a key component of diet quality, and malnutrition due to poor diet quality leads to child morbidity and mortality. However, in Bangladesh, there is a lack of information on childhood DD (for children aged 6-59 mo) amid the coronavirus disease 2019 (COVID-19) pandemic.",
+      "Objectives",
+      "The purpose of this study was to assess the minimum DD and its associated factors among children aged 6-59 mo during the COVID-19 pandemic in Bangladesh.",
+      "Methods",
+      "A cross-sectional study was carried out in 6 districts of Bangladesh. A total of 1190 respondents were included using cluster random sampling. The Individual Dietary Diversity Score (IDDS) for children was used to assess the children's DD. Factors associated with DD of children were identified using a multilevel binary logistics regression model.",
+      "Results",
+      "About 70% of the children aged 6-59 mo had minimum DD during the COVID-19 pandemic in Bangladesh. Children who belonged to slum areas [adjusted odds ratio (AOR): 0.45; 95% CI: 0.24, 0.83], family income 12,000-15,000 Bangladeshi taka (BDT) (AOR: 1.79; 95% CI: 1.06, 3.05) and >15,000 BDT (AOR: 2.59; 95% CI: 1.47, 4.57), mothers aged 26-30 y (AOR: 0.35; 95% CI: 0.20, 0.62) and >30 y (AOR: 0.43; 95% CI: 0.22, 0.85), respondents who had 2 children <5 y old (AOR: 0.43; 95% CI: 0.28, 0.66), and children aged 12-23 mo (AOR: 1.89; 95% CI: 1.14, 3.20) were significantly associated with DD among children aged 6-59 mo.",
+      "Conclusions",
+      "The findings of this study highlight the need for food and nutrition-related intervention, particularly targeting mothers of younger age and with >2 children <5 y old, mothers from slum regions, and fathers who were unemployed, to improve children's DD practices."
+    ]
   },
   {
     "id": 20,
@@ -217,7 +366,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Association of overweight and obesity with the risk of disordered eating attitudes and behaviors among Bangladeshi university students.",
+    "abstract_paragraphs": [
+      "Objective",
+      "Little is known about the relation between weight status and eating disorders symptomatology among Bangladeshi university students. Moreover, the sociocultural climate in Bangladesh has changed in ways that might increase young adults' vulnerability to eating disorder symptomatology. Therefore, this study explored disordered eating attitudes and behaviors among Bangladeshi university students, and their association with Body Mass Index.",
+      "Method",
+      "This cross-sectional study included 398 students from one Bangladeshi university [mean age = 21.12 and 50.25% women]. Anthropometric measures (height and weight) were collected in-person by study staff. Participants also completed the Eating Attitudes Test-26 (EAT-26). The established EAT-26 cutoff score of ≥20 was used to identify participants as having elevated risk for disordered eating attitudes and behaviors. Participants' BMIs were classified according to World Health Organization guidelines.",
+      "Result",
+      "Over one-fifth (20.4%) of students in the sample had EAT-26 scores ≥20 (17.2% male and 23.5% female). Students with BMIs classified as overweight or obese were more likely to have elevated EAT-26 scores (OR = 3.572[2.12-6.03], p < .001). A significant positive correlation was found between overweight/obesity, and disordered eating attitudes and behaviors (r = 0.41, p < .001).",
+      "Conclusion",
+      "These findings suggest that additional research is needed to investigate eating disorder symptomatology in Bangladeshis. In particular, future studies should use longitudinal designs, and large and diverse samples."
+    ]
   },
   {
     "id": 21,
@@ -228,7 +388,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Factors associated with overweight and obesity among Bangladeshi university students: a case-control study.",
+    "abstract_paragraphs": [
+      "Objectives: Overweight and obesity has an adverse effect on public health, and emerging adulthood (18-25 years) is recognized as a potential period for the onset of obesity, thus, this study aimed to explore risk factors associated with overweight and obesity in Bangladeshi university students. Participants: Bangladeshi university students (n = 280). Methods: A case-control study of 140 students with overweight and obesity and 140 students with normal weight. Results: Multiple logistic regression revealed having at least one overweight or obese parent (AOR = 4.2; 95% CI: 2.2-8.4) and participating in no physical activity (AOR = 3.2; 95% CI: 1.0-9.9) were potential risk factors. Reported consumption ≥4 meals in a day, junk food/fast food, and soft drinks for ≥3 days a week were potential determinants of overweight and obesity in this population. Conclusion: Increased awareness on the importance of regular physical activity and a healthy diet may reduce the risk of overweight and obesity among Bangladeshi university students."
+    ]
   },
   {
     "id": 22,
@@ -239,7 +403,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Food addiction, orthorexia nervosa and dietary diversity among Bangladeshi university students: a large online survey during the COVID-19 pandemic.",
+    "abstract_paragraphs": [
+      "Purpose",
+      "Maladaptive eating behaviors like food addiction (FA) are common among students, and orthorexia nervosa (ON) is being evaluated as a new condition among eating disorders (EDs). Moreover, dietary diversity (DD) is recognized as an important component of a healthy diet. Thus, the current study sought to examine the prevalence of ON and FA as well as the factors associated with ON, FA, and DD among university students in Bangladesh during the COVID-19 pandemic.",
+      "Methods",
+      "Four-thousand-and-seventy-six students were recruited and completed an online survey consisting of the Bratman Orthorexia test, the modified Yale Food Addiction Scale, and a questionnaire based on the Food and Agriculture Organizations' guidelines. Inferential statistics, bivariate and multivariable linear regression were used for analyzing data.",
+      "Results",
+      "ON and FA were observed in 1.7% and 7.5% of participants, respectively, with 43.8% exhibiting Health Fanatic eating attitude. The mean DD score was 5.96 (SD = 1.56). Students with ON consumed more legumes, nuts, seeds, and vegetables including dark green leafy vegetables whereas students with FA consumed more organ meats and eggs. Students who were older-aged, married, formerly smoked, had fitness goals, and had guilty feelings about violating food rules were more likely to have ON, whereas those who were female, were married, actively smoked, and were overweight and obese were more likely to have FA.",
+      "Conclusions",
+      "The findings suggest that students from Bangladesh are at risk of FA, and less so for ON. These entities and low DD deserve more research attention in Bangladesh to increase awareness and ensure appropriate interventions."
+    ]
   },
   {
     "id": 23,
@@ -250,7 +425,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Sources of nutrition information and nutritional knowledge among school-going adolescents in Bangladesh.",
+    "abstract_paragraphs": [
+      "Objectives",
+      "The increasing prevalence of malnutrition among school-going adolescents is a major public health threat in Bangladesh. School studying adolescents are a crucial group suffering from malnutrition. Proper nutrition information can enrich their knowledge, promote their health and also minimize the burden of malnutrition. The study aimed to identify the sources of information and corresponding knowledge level on nutrition among school-going adolescents in Bangladesh.",
+      "Study design",
+      "A school-based cross-sectional survey was carried out from January to August 2019.",
+      "Methods",
+      "A pre-structured questionnaire having 13 validated questions regarding facts panel of packaged food and daily dietary habits was used to assess the knowledge. Scores on nutritional knowledge were calculated by summing up the answer values (Yes ​= ​1, No ​= ​0) and, scores below the overall mean were considered low. Logistic regression was employed to identify whether any source was related to respondents' nutritional knowledge.",
+      "Results",
+      "Family members were the most popular (52.4%) source of nutrition information. Majority students (43.2%) trusted professionals as an accurate source. Approximately half (49.1%) of the participants scored low (<9.34) in basic nutrition knowledge assessment. Participants seeking information from family members (AOR: 0.693; 95% CI: 0.555-0.866, p ​< ​0.05) and online resources (AOR: 0.826, 95% CI: 0.710-0.962, p ​< ​0.05) were less likely to obtain low scores than those not favored the sources.",
+      "Conclusion",
+      "Knowledge about essential nutrition among school-going adolescents was quite low. The findings of this study are useful to the policymakers to develop and design interventions to improve adolescents' knowledge of nutrition. A school-based nutrition awareness program can be introduced to reduce malnutrition among adolescents in Bangladesh."
+    ]
   },
   {
     "id": 24,
@@ -261,7 +449,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Trends and inequity in improved sanitation facility utilisation in Bangladesh: Evidence from Bangladesh Demographic and Health Surveys.",
+    "abstract_paragraphs": [
+      "Improved sanitation is indispensable to human health. However, lack of access to improved sanitation remains one of the most daunting public health challenges of the twenty-first century in Bangladesh. The aim of the study was to describe the trends in access to improved sanitation facilities following the inequity gap among households in different socioeconomic groups in Bangladesh. Data from the Bangladesh Demographic and Health Survey (BDHS) 2007, 2011, 2014, and 2017-18 were extracted for this study. Inequity in access to improved sanitation was calculated using rich-poor ratio and concentration index to determine the changes in inequity across the time period. In Bangladesh, the proportion of households with access to improved sanitation increased steadily from 25.4% to 45.4% between 2007 and 2014, but slightly decreased to 44.0% in 2017-18. Age, educational status, marital status of household head, household wealth index, household size, place of residence, division, and survey year were significantly associated with the utilisation of improved sanitation. There is a pro-rich situation, which means that utilisation of improved sanitation was more concentrated among the rich across all survey years (Concentration Index ranges: 0.40 to 0.27). The government and other relevant stakeholders should take initiatives considering inequity among different socioeconomic groups to ensure the use of improved sanitation facilities for all, hence achieving universal health coverage."
+    ]
   },
   {
     "id": 25,
@@ -272,7 +464,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Effect of vendors’ socio-demography and other factors on hygienic practices of street food shops",
+    "abstract_paragraphs": [
+      "Street food business provides low-cost ready-made meals and employments for the marginal people in developing countries. But the lack of good hygiene in the street food shops is a major concern for consumer. This research examined the effect of the socio-demography of vendors and other factors on hygienic practices in street food shops. This cross-sectional study was conducted among 137 street food vendors in the Barishal and Patuakhali cities of Bangladesh. A pre-structured questionnaire was used to collect information on sellers and shops. A logistic regression model was employed to check the effect of the factors on the hygiene practice score of respondents. Among the vendors, only 27.7% recruited an extra employee in their shops and 43.1% had a good score on the hygienic practices. Regression analysis showed that vendors who completed secondary education (AOR = 3.308; 95% CI: 1.560 to 7.015) and recruited extra employee (AOR = 3.381; 95% CI: 1.465 to 7.800) were more likely to have a higher score than the counterparts. The overall hygiene practices of the vendors were not satisfactory. The education of sellers and the employee’s assistance will boost the hygienic standards of the street food shops."
+    ]
   },
   {
     "id": 26,
@@ -283,7 +479,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Effect of low-cost kitchen with improved cookstove on birthweight of neonates in Shahjadpur, Bangladesh: a cluster-randomised controlled trial.",
+    "abstract_paragraphs": [
+      "Background",
+      "Smoke from biomass fuels used for cooking in traditional cookstoves contains a variety of health-damaging pollutants. Inhalation of these pollutants by pregnant women has been linked to abnormal foetal development and adverse pregnancy outcomes, including low birthweight (LBW). There is a dearth of data on environmental interventions that have the potential to reduce exposure to biomass fuel during pregnancy and improve birth outcomes. International Centre for Diarrheal Disease Research, Bangladesh (icddr,b) therefore, designed a low-cost kitchen with an improved cookstove and examined the impact of this intervention on the birthweight of neonates.",
+      "Methods",
+      "icddr,b conducted a cluster-randomised controlled trial of a 'low-cost kitchen with improved cookstove' intervention among 1,267 pregnant women who used traditional cookstoves in a rural sub-district of Bangladesh. All participants were enrolled during the first trimester of pregnancy among 104 randomly selected clusters after obtaining informed consent. The model kitchens were installed in 628 participants' households of the intervention group, and 639 participants continued to use traditional cookstoves as the control group. The primary outcome was the proportion of LBW neonates between the intervention and control groups. The study also examined if the intervention would reduce CO exposure, measured by the differences in maternal blood carbon monoxide saturation (SpCO) levels and prevalence of LBW in neonates. We performed a generalized structural equation model for jointly assessing the simultaneous relationships of biomass fuel exposure to LBW of neonates and the relationships of LBW of neonates to maternal blood SpCO level. This trial was registered with ClinicalTrials.gov (NCT02923882).",
+      "Findings",
+      "We found that in the intervention group using 'low-cost kitchen with improved cookstove', the risk of LBW reduced by 37% (adjusted risk ratio: 0.63, 95% CI [0.45, 0.89]). Between the second and third trimester, the mean maternal blood SpCO level was significantly reduced from 10.4% to 8.9% (p-value <0.01) in the intervention group but remained unchanged in the control group (11.6% and 11.5%). Of the total effects of the intervention on the risk of LBW, 48.3% was mediated through maternal blood SpCO level.",
+      "Interpretation",
+      "The risk of LBW among rural neonates was reduced in the intervention group using 'low-cost kitchen with improved cookstove', which may be attributed to the reduction in maternal blood SpCO level. Additional research is needed to identify other mechanisms through which biomass fuel exposure might lead to adverse pregnancy outcomes.",
+      "Funding",
+      "Grand Challenges Canada: Rising Stars in Global Health Programme."
+    ]
   },
   {
     "id": 27,
@@ -294,7 +503,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Shock, response, and resilience of COVID-19 on Kangaroo Mother Care service utilisation in public health facilities in Bangladesh: An interrupted time series analysis",
+    "abstract_paragraphs": [
+      "Background",
+      "Premature births and low birth-weight (LBW) are significant contributors to neonatal mortality, particularly in Bangladesh. Kangaroo Mother Care (KMC) has emerged as a proven, safe, and cost-effective intervention to save lives. Nevertheless, the coronavirus disease 2019 (COVID-19) pandemic disrupted health care services, including KMC, and its specific impact on KMC utilisation in Bangladesh remains unknown. Thus, our objective was to evaluate the impact of COVID-19 on KMC utilisation in Bangladesh.",
+      "Methods",
+      "We conducted a secondary analysis of data, collected from 46 health care facilities in Bangladesh, utilising the District Health Information Systems 2 (DHIS2), spanning from January 2019 to August 2023. Our data set encompassed health care facilities with KMC data points available for at least two months between January 2018 and January 2019. We segmented our analysis to encompass distinct time periods, including pre-COVID-19, lockdown phases, and post-COVID-19. We employed descriptive statistics of KMC utilisation. We performed a segmented regression with a Poisson distribution which was adjusted for autocorrelation and seasonality.",
+      "Results",
+      "Our study revealed a significant 20% reduction in KMC utilisation during the initial COVID-19 lockdown (incidence rate ratio (IRR) 0.80; 95% confidence interval (CI) = 0.76–0.84) in comparison to the pre-COVID-19 period. However, the 'between lockdown' phase saw a 5% increase in KMC provision (IRR 1.05; 95% CI = 1.01–1.08). Notably, KMC utilisation during the second lockdown resembled pre-pandemic levels, surpassing the initial lockdown period (IRR 0.99; 95% CI = 0.93–1.06). As we transitioned into post-COVID-19 period, KMC utilisation increased by 8% in comparison to the pre-COVID-19 era (IRR 1.08; 95% CI = 1.01–1.16). However, when we considered different facility types, District Hospitals (DH) mirrored the overall trend, whereas Medical College Hospitals (MCH) and Upazila Health Complexes (UHC) facilities exhibited distinctive patterns. Likewise, when assessing divisions, Dhaka, Khulna, and Rajshahi exhibited counter trends to the overall results.",
+      "Conclusions",
+      "Our study shed light on the profound impact of the COVID-19 pandemic on KMC utilisation, the adaptive responses of health care systems, and the subsequent resilience displayed. District Hospitals played a pivotal role in this rebound. It is essential to recognise that facilities in different divisions were disproportionately affected by the challenges brought forth by the COVID-19 pandemic."
+    ]
   },
   {
     "id": 28,
@@ -305,7 +525,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Effect of an integrated maternal and neonatal health intervention on maternal healthcare utilisation addressing inequity in Rural Bangladesh.",
+    "abstract_paragraphs": [
+      "Background",
+      "Although Bangladesh has made significant improvements in maternal, neonatal, and child health, the disparity between rich and poor remains a matter of concern.",
+      "Objective",
+      "The study aimed to increase coverage of skilled maternal healthcare services while minimising the inequity gap among mothers in different socioeconomic groups.",
+      "Methods",
+      "We implemented an integrated maternal and neonatal health (MNH) intervention between 2009 and 2012, in Shahjadpur sub-district of Sirajganj district, Bangladesh. The study was quasi-experimental in design for the evaluation. Socioeconomic status was derived from household assets using principal component analysis. Inequity in maternal healthcare utilisation was calculated using rich-poor ratio and concentration index to determine the changes in inequity between the baseline and the endline time period.",
+      "Result",
+      "The baseline and endline surveys included 3,158 (mean age 23.5 years) and 3,540 (mean age 24.3 years) recently delivered mothers respectively. Reduction in the rich-poor ratio was observed in the utilisation of skilled 4+ antenatal care (ANC) (2.4:1 to 1.1:1) and related concentration index decreased from 0.220 to 0.013 (p < 0.001). The rich-poor ratio for skilled childbirth reduced from 1.7:1 to 1.0:1 and the related concentration index declined from 0.161 to -0.021 (p < 0.001). A similar reduction was also observed in the utilisation of skilled postnatal care (PNC); where the rich-poor gap decreased from 2.5:1 to 1.0:1 and the related concentration index declined from 0.197 to -0.004 (p < 0.001).",
+      "Conclusion",
+      "The MNH intervention was successful in reducing inequity in receiving skilled 4+ ANC, delivery, and PNC in rural Bangladesh."
+    ]
   },
   {
     "id": 29,
@@ -316,7 +549,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Stillbirths by maternal-obstetric characteristics and Robson classification system: a cross-sectional study from eight district hospitals in Bangladesh.",
+    "abstract_paragraphs": [
+      "Background",
+      "Understanding maternal-obstetric determinants is key to stillbirth prevention. The Robson classification system enables monitoring and identification of high-risk groups. This study examined the prevalence and distribution of antepartum and intrapartum stillbirths by maternal-obstetric characteristics and Robson groups in district hospitals of Bangladesh.",
+      "Methods",
+      "We conducted a cross-sectional analysis using prospectively collected data from Phases 4 and 5 (August 2022-June 2023) of a multi-phase implementation research study on the Robson classification system in eight district hospitals. All deliveries at ≥ 28 weeks of gestation were included, classified as live births, antepartum stillbirths (death before onset of labour), and intrapartum stillbirths (death after onset of labour). Descriptive analyses estimated stillbirth prevalence by timing, maternal and obstetric factors, and Robson groups. Associations were assessed using χ2 tests.",
+      "Results",
+      "Out of 15 529 deliveries, 3.9% were stillbirths (56.6% intrapartum and 43.4% antepartum). Stillbirth prevalence varied across facilities (0.9-6.6%). A higher stillbirth burden was significantly associated (P < 0.05) with advanced maternal age (>34 years), preterm birth, lack of antenatal care, non-use of the partograph, and low birthweight. Breech presentation, induced labour, and vaginal delivery had the highest stillbirth percentage. Timing of stillbirth differed significantly by foetal presentation, onset of labour, and mode of delivery (P < 0.05). Stillbirth prevalence varied across Robson groups (0-17.5%). Intrapartum stillbirths predominated in Groups 1, 3, 6 and 8, while Group 10 was largely antepartum-dominated.",
+      "Conclusions",
+      "Stillbirth remains a substantial burden in district-level hospitals in Bangladesh, with most deaths occurring during the intrapartum period and marked variation across facilities and Robson groups. The findings highlight preventable gaps in antenatal screening, labour monitoring, and timely emergency obstetric care. Application of the Robson classification system enables precise identification of high-risk obstetric groups for targeted quality-improvement interventions to reduce preventable stillbirths and accelerate progress toward national and global stillbirth reduction targets."
+    ]
   },
   {
     "id": 30,
@@ -327,7 +571,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Effect of an integrated intervention on the availability and completeness of Robson ten group classification system-related data in district hospitals in Bangladesh.",
+    "abstract_paragraphs": [
+      "Background",
+      "The Government of Bangladesh's routine data capturing system of health care facilities doesn't adequately capture Robson ten group classification system (TGCS)-related variables required to monitor caesarean section rates. To address this gap, we developed an integrated intervention and assessed its impact on the Robson TGCS-related variables availability and completeness.",
+      "Methods",
+      "We conducted implementation research in eight district hospitals in Bangladesh from January 2021 to June 2023, where the primary population was mothers who gave birth within the implementing health care facilities. Our integrated intervention included the introduction of Robson TGCS; development and implementation of 'Robson TGCS Report Form'; capacity development training; a multi-level monitoring and supportive supervision system; and collaborative stakeholders' advisory workshops and review meetings. The primary outcome was the percentage of availability and completeness of TGCS-related data across study phases. The study was divided into five phases. Phase one focused on developing the data-capturing system, while data collection began in Phase two.",
+      "Results",
+      "The average availability of six variables improved significantly (P < 0.001) from 76% (95% confidence interval (CI) = 75.7-76.8%) in phase two to 99% (95% CI = 98.8-99.1%) in Phase five. Similarly, data completeness for these variables increased significantly (P < 0.001) from 53% (95% CI = 52.2-54.2%) to 97% (95% CI = 96.2-97%). Consequently, the percentage of classified groups improved significantly (P < 0.001) from 55% (95% CI = 54.1-56.1%) to 97% (95% CI = 96.8-97.5%).",
+      "Conclusions",
+      "The integrated intervention significantly improved data availability and completeness. Active engagement of stakeholders, including governmental bodies and technical experts from local and central levels, is crucial to ensure data quality for identifying, planning and implementing targeted interventions."
+    ]
   },
   {
     "id": 31,
@@ -338,7 +593,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Community-based integrated intervention for skilled maternal health care utilization in riverine remote areas, Bangladesh.",
+    "abstract_paragraphs": [
+      "Introduction",
+      "Despite the decrease in maternal mortality ratio, many women in Bangladesh are still at high-risk of death due to pregnancy-related morbidities. Increasing the rate of skilled maternal healthcare service utilization is effective to reduce maternal mortality rate. This paper examines the intervention effect of an integrated community-based maternal healthcare project implemented by a non-government organization, Friendship, aiming to provide maternal health services to women living in the remote riverine regions of Bangladesh.",
+      "Methods",
+      "We examined the skilled maternal healthcare service utilization before and after project implementation of the mothers with birth experience of 0-6 months from the intervention (N = 1,304) and comparison areas (N = 1,304). A difference-in-differences logistic model measured the effect of the intervention.",
+      "Results",
+      "After the intervention, mothers were three times more likely to receive ≥ 4 ANC visits from skilled providers (AOR: 2.9; 95 % CI: 2.1-4.2), 1.5 times more likely to have skilled birth attendants during deliveries (AOR: 1.5; 95 % CI: 1.1-2.1) and 1.5 times more likely to seek at least one PNC within 42 days after delivery (AOR: 1.5; 95 % CI: 1.1-2.2) as compared to the comparison group.",
+      "Conclusion",
+      "The intervention showed positive effect on improving the ANC coverage, skilled delivery, and PNC among the mothers residing the remote riverine areas. Therefore, it opens up the opportunity for adaptation of such integrated community and facility-based interventions by other LMICs."
+    ]
   },
   {
     "id": 32,
@@ -349,7 +615,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Pregnancy loss in rural Bangladesh: an analysis of rates, proportions, timing, and determinants based on data from a Health and Demographic Surveillance System.",
+    "abstract_paragraphs": [
+      "Background",
+      "Pregnancy loss, encompassing miscarriage/spontaneous and induced abortion, has substantial physical and mental health consequences for women. However, population-level evidence on its occurrence in Bangladesh remains limited, with most data derived from reports and small-scale community-based studies. Here we provide population-level estimates of pregnancy loss and examine associated factors in rural Bangladesh.",
+      "Methods",
+      "We analysed data from 61 428 women aged 15-49 years and 7612 pregnancies, extracted from the Baliakandi Health and Demographic Surveillance System of icddr,b and covering the period from 1 August 2021 to 30 June 2023. We used descriptive statistics with 95% confidence intervals (CIs) to report rates and proportions, and a generalised linear mixed model to identify factors associated with pregnancy loss.",
+      "Results",
+      "Overall, the rate of pregnancy loss was 13.9 (95% CI = 13.2-14.6) per 1000 women per year, while the proportion was 14% of all recognised pregnancies. Around 11% of pregnancies resulted in miscarriage/spontaneous abortion and 3% in induced abortion. Miscarriage/spontaneous abortions peaked between 11 and 13 weeks, and induced abortions between 6 and 7 weeks of gestation. Women with a prior history of pregnancy loss or stillbirth had higher odds of miscarriage/spontaneous abortion. Higher maternal age was associated with both miscarriage/spontaneous abortion and induced abortion, while induced abortion was associated with women with larger family sizes.",
+      "Conclusions",
+      "Pregnancy loss is notably prevalent in rural Bangladesh, predominantly occurring spontaneously and during the first trimester. Maternal health initiatives should prioritise closer monitoring and support during the early stages of pregnancy, particularly for women with a history of pregnancy loss."
+    ]
   },
   {
     "id": 33,
@@ -360,7 +637,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Measuring the effectiveness of an integrated intervention package to improve the level of infection prevention and control: a multi-centre study in Bangladesh.",
+    "abstract_paragraphs": [
+      "Background",
+      "Infection prevention and control (IPC) is a critical component of delivering safe, effective and high-quality healthcare services, and eliminating avoidable healthcare-associated infections (HAIs) in health facilities, predominantly in population-dense settings such as Bangladesh.",
+      "Aim",
+      "Our study aimed to assess the effect of an integrated intervention package in improving the IPC level of the health facilities in Bangladesh.",
+      "Methods",
+      "We conducted a pre-post intervention study in six district hospitals (DHs) and 13 Upazila Health Complexes (UHCs) in the six districts of Bangladesh. Baseline and endline assessments were conducted between March and December 2021 using the adapted World Health Organization Infection Prevention and Control Assessment Framework (WHO-IPCAF) tool. The IPCAF score, ranging from 0-800, was calculated by adding the scores of eight components, and the IPC promotion and practice level was categorized as Inadequate (0-200), Basic (201-400), Intermediate (401-600) and Advanced (601-800). The integrated intervention package including IPC committee formation, healthcare provider training, logistics provision, necessary guidelines distribution, triage/flu corners establishment, and infrastructure development was implemented in all facilities.",
+      "Results",
+      "The average IPCAF score across all the facilities showed a significant increase from 16% (95% CI: 11.5-20.65%) to 54% (95% CI: 51.4-57.1%). Overall, the IPCAF score increased by 34 percentage points (P<0.001) in DHs and 40 percentage points (P<0.001) in UHCs. Following the intervention, 12 (three DHs, nine UHCs) of 19 facilities progressed from inadequate to intermediate, and another three DHs upgraded from basic to intermediate in terms of IPC level.",
+      "Conclusion",
+      "The integrated intervention package improved IPCAF score in all facilities."
+    ]
   },
   {
     "id": 34,
@@ -371,7 +661,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Managing pre and postpartum mental health issues of refugee women from fragile and conflict-affected countries: A systematic review.",
+    "abstract_paragraphs": [
+      "Objective",
+      "Refugee or immigrant women residing in conflict prone countries portray elevated mental health related vulnerabilities during their peripartum periods and require effective interventions for improved maternal and child well-being. The objective of this systematic review is to generate evidence on effective interventions for managing peripartum mental health issues among refugee women from conflicted settings.",
+      "Study design",
+      "Systematic review.",
+      "Method",
+      "Three databases MEDLINE/PubMed, Scopus, and Web of Science (core collection) were searched and Rayyan was used to perform screening. RoBANS tool was used to assess the risk of bias and narrative synthesis was conducted to narrate the result.",
+      "Result",
+      "5425 potential articles were identified and seven studies were included for data extraction after a rigorous screening process. Four (n = 4), out of seven studies discussed improved Edinburgh Postnatal Depression Scale (EPDS) scores, reduced perinatal distress and depression, increased self-esteem, and knowledge about pregnancy and child development, etc. due to home visits during the antepartum and postpartum period. Two studies asserted the importance of group sessions and social support and found social support was negatively correlated with postpartum depression (r = -0.49, p < 0.0001). Formal/informal, public, private, or volunteered supports were explored to be important for increasing knowledge about maternal well-being, stress management, and childcare processes for refugee women.",
+      "Conclusion",
+      "The absence of limited experimental studies opens the opportunity for conducting further research on this topic. Besides, development partners can focus on this review to prioritise the intervention components during designing programmes on this related issue."
+    ]
   },
   {
     "id": 35,
@@ -382,7 +685,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Factors influencing delivery-related complications and their consequences in hard-to-reach areas of Bangladesh.",
+    "abstract_paragraphs": [
+      "Background and objectives",
+      "Bangladesh's high maternal mortality ratio is exacerbated by delivery-related complications, particularly in hard-to-reach (HtR) areas with limited healthcare access. Despite this, few studies have explored delivery-related complications and factors contributing to these complications among the disadvantaged population. This study aimed to investigate the factors contributing to delivery-related complications and their consequences among the mothers residing in the HtR areas of Bangladesh.",
+      "Methods",
+      "Data were collected using a cross-sectional study design from 13 HtR sub-districts of Bangladesh between September 2019 and October 2019. Data from 1,290 recently delivered mothers were analysed.",
+      "Results",
+      "Around 32% (95% CI: 29.7-34.8) of the mothers reported at least one delivery-related complication. Prolonged labour pain (21%) was the highest reported complication during the delivery, followed by obstructive labour (20%), fever (14%), severe headache (14%). Mothers with higher education, a higher number of antenatal care (ANC) visits, complications during ANC, employed, and first-time mothers had higher odds of reporting delivery-related complications. More than one-half (51%) of these mothers had normal vaginal delivery. Nearly one-fifth (20%) of mothers who reported delivery-related complications were delivered by unskilled health workers at homes. On the other hand, about one-fifth (19%) of the mothers without any complications during delivery had a caesarean delivery. Nine out of ten of these caesarean deliveries were done at the private facilities.",
+      "Conclusion",
+      "Delivery-related complications are significantly related to a woman's reproductive history and other background characteristics. Unnecessary caesarean delivery is prominent at private facilities."
+    ]
   },
   {
     "id": 36,
@@ -393,7 +707,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "From Taboo to Touchscreen: A Qualitative Study of Digital Sexual and Reproductive Health Intervention for Bangladeshi Adolescents.",
+    "abstract_paragraphs": [
+      "Background",
+      "Adolescents in Bangladesh, approximately one-fifth of the total population, face significant challenges accessing relevant sexual and reproductive health (SRH) information, with the added burdens of cultural taboo, limited accessibility, and poor communication channels. Traditional adolescent-friendly approaches have shown limited effectiveness in addressing these challenges. In response, Mukhorito was developed as a peer-led, mobile-based digital platform to facilitate SRH, education, and communication among ninth-grade students.",
+      "Objective",
+      "This study explored the feasibility and constraints of piloting the Mukhorito app to enhance adolescent SRH education in Bangladesh. It also sought to determine the self-reported usage, usability, and effect on knowledge and peer communication of the app, as well as to identify implementation and adoption challenges.",
+      "Methods",
+      "A qualitative design was applied in the context of a broader mixed-methods study. Data were collected through 6 in-depth interviews, 3 key informant interviews, and 1 focus group discussion from 19 participants, including students, peer leaders, teachers, and government representatives, across 3 secondary schools (a boys' school, girls' school, and coeducational school) in the Feni district. Thematic analysis was conducted using NVivo software (QSR International) under Braun and Clarke's guidelines.",
+      "Results",
+      "The Mukhorito app was perceived as a valuable tool to meet the SRH needs of adolescents in Bangladesh owing to its well-structured, easily navigable content with relatable stories. Participants described increased awareness of critical SRH issues, including reproductive health, nutrition, early marriage, violence against adolescents, and drug addiction, and reported sharing this knowledge with their families and communities. The app was seen as creating a safe space to discuss previously taboo SRH topics, reducing cultural reluctance to communicate, and promoting peer-to-peer communication. Interactive sessions were noted to strengthen decision-making skills and leadership qualities. Many users reported feeling more comfortable discussing SRH issues without shyness. However, challenges such as limited smartphone access, unreliable internet connection, and economic factors hindered adoption, especially in rural settings. Participants suggested the integration of the Mukhorito app in school curricula, aligning it with the government adolescent health program, adding visually rich and interactive content (eg, short dramas, videos, and animations), and enabling offline access to address connectivity challenges and maximize the effectiveness of the app.",
+      "Conclusions",
+      "Mukhorito possesses strong potential as a culturally relevant, digital SRH education tool for Bangladeshi adolescents. The app enabled knowledge and openness in SRH discourse. Alignment with national health programs and enhanced app functionality may promote greater and more sustainable adolescent health."
+    ]
   },
   {
     "id": 37,
@@ -404,7 +731,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Assessing health systems' capacities to provide post-abortion care: insights from seven low- and middle-income countries.",
+    "abstract_paragraphs": [
+      "Background",
+      "Abortion-related complications significantly contribute to maternal morbidity and mortality globally. Post-abortion care (PAC) services are essential to safeguarding women's rights by substantially mitigating the health risks associated with abortions - a step which is fundamental to achieving reproductive and maternal health-related Sustainable Development Goals.",
+      "Methods",
+      "We conducted a secondary analysis of data from the nationally representative Service Provision Assessment (SPA) surveys conducted between 2015 and 2024 across three regions in seven low- and middle-income countries: Afghanistan, Bangladesh, Nepal, the Democratic Republic of Congo (DRC), Ethiopia, Senegal, and Haiti. We included 2951 primary facilities and 473 referral facilities offering normal delivery services. We used PAC signal functions to report capacity to provide basic and comprehensive PAC services in primary and referral facilities, respectively.",
+      "Results",
+      "Of all primary facilities offering normal delivery services, 50% in Afghanistan, 1% in Bangladesh, 8% in Nepal, 5% in DRC, 34% in Ethiopia, 38% in Senegal, and 19% in Haiti had the capacity to provide basic PAC services. Of the referral facilities, 47% in Afghanistan, 16% in Bangladesh, 50% in Nepal, 52% in DRC, 75% in Ethiopia, 46% in Senegal, and 32% in Haiti had the capacity to provide comprehensive PAC services. Primary facilities in Bangladesh, DRC, and Nepal had critical gaps in referral, ie, effective communication with referral centres and availability of a functional vehicle for emergency transportation. In referral facilities, 74% in Bangladesh and 59% in Nepal had the provision of blood transfusion. In terms of basic PAC services in primary facilities, the capacity of Senegal (from 16% in 2015 to 38% in 2019; P = 0.001) and Haiti (from 12% in 2013 to 19% in 2018; P = 0.007) increased, but the capacity of Bangladesh decreased (from 4% in 2014 to 1% in 2017; P = 0.016) over time.",
+      "Conclusions",
+      "There are substantial gaps in the capacity to provide basic and comprehensive PAC services in the selected countries. Investing in primary healthcare and improving communication and transportation should be the priority for enhancing basic PAC services, while strengthening referral hospitals to effectively handle emergencies and conduct major surgeries could significantly bolster their capacity to provide comprehensive PAC services."
+    ]
   },
   {
     "id": 38,
@@ -415,7 +753,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Reaching the unreachable: a mixed-method evaluation of multidimensional healthcare model addressing the healthcare service gaps in hard-to-reach Northern riverine Bangladesh.",
+    "abstract_paragraphs": [
+      "Background",
+      "Hard-to-reach riverine communities of northern Bangladesh face unique challenges in healthcare services. Friendship, an international social purpose organization, implemented a 3-tier healthcare model addressing these unique challenges over the past 20 years. This study evaluated Friendship's 3-tier healthcare model in the northern riverine area, assessing service-seeking practices, experiences, stakeholders' perceptions, and cost benefits for beneficiaries.",
+      "Methods",
+      "A concurrent mixed-method approach was employed, including desk reviews, a cross-sectional quantitative survey, facility mapping, and qualitative interviews with service recipients, community representatives, healthcare providers, and health managers. Data were collected from five hard-to-reach riverine sub-districts across the Kurigram, Gaibandha, Bogura, Sirajganj, and Jamalpur districts of Bangladesh between April 2022 and July 2023. Data analysis followed major thematic domains for a comprehensive and complementary understanding.",
+      "Results",
+      "A significant proportion (43.0%) of survey participants had no formal education, were aged 18-35 (57.5%), and earned less than 1,620 USD yearly (66.6%). Friendship's healthcare services at the doorstep through satellite clinics and Female Community Medic Aides were widely accepted and preferred within the community for convenience, affordability (0.05-0.09 USD service charges), and superior quality, particularly the specialized treatments available on the hospital ships.",
+      "Conclusion",
+      "Friendship's 3-tier healthcare model made the accessibility and affordability of primary healthcare. Upon implementing a robust referral mechanism, continuing collaboration with the Government of Bangladesh, and expanding community awareness sessions to include topics such as mental health and disaster response, this model has the potential to be effective in similar settings in Bangladesh and other developing countries, as well as during emergency responses."
+    ]
   },
   {
     "id": 39,
@@ -426,7 +775,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Welcoming pregnant women: introducing navigation and support services in a secondary health facility in Bangladesh.",
+    "abstract_paragraphs": [
+      "Background",
+      "Maternal mortality remains high in low- and middle-income countries like Bangladesh, driven by preventable causes such as inadequate health care access and delays in receiving care in health facilities, highlighting the need for improved support in health facilities. This study aimed to explore the opportunities and difficulties of introducing 'Welcome Persons', a hospital navigation and support cadre for pregnant women, from the perspectives of recipients, patients' attendance, health care providers, and facility managers.",
+      "Methods",
+      "This qualitative study was conducted from 15 March to 30 April 2023, in the District Hospital of Gaibandha, Bangladesh. Data were collected through purposive sampling from health care providers, facility managers, 'Welcome Persons', pregnant and delivered women, and their attendants, utilising observations, in-depth interviews, focus group discussions, and key informant interviews, and analytical approaches to ensure scientific rigour. Thematic analysis was performed.",
+      "Results",
+      "The study revealed the positive influence of 'Welcome Person' in maternal health care provision by ensuring timely services, preventing outsiders' interference, as well as contributing to prompt emergency management, specifically for educationally disadvantaged patients. The triangulated perspectives of the participants highlighted the overall acceptance and usefulness of the 'Welcome Persons' but also discovered challenges such as a lack of human resources on the night shift, logistical constraints, and potential gender insensitivity by the recipients.",
+      "Conclusions",
+      "The study findings provided an explicit understanding of the 'Welcome Persons' intervention for facilitating maternal health care services and navigation among pregnant women. While they were well-received, addressing identified barriers is crucial for a sustainable positive impact on maternal health care in secondary health facility settings in Bangladesh."
+    ]
   },
   {
     "id": 40,
@@ -437,7 +797,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Assessing changes in the availability and readiness of health facilities to provide modern family planning services in Bangladesh: Insights from Bangladesh Health Facility Surveys, 2014 and 2017.",
+    "abstract_paragraphs": [
+      "Background",
+      "Modern family planning plays a vital role in reducing unintended pregnancies, a major reproductive health issue worldwide. Access to modern family planning services is essential for empowering women to have greater control over their reproductive health and rights. In Bangladesh, there remains an unmet need for modern family planning services among reproductive-aged women. Assessing the capacity of health facilities to address these unmet needs for modern family planning is crucial.",
+      "Objectives",
+      "The objective of this study was to assess the changes in the availability and readiness of health facilities to provide modern family planning services in Bangladesh between 2014 and 2017, and identify factors associated with facility readiness.",
+      "Methods",
+      "We performed a secondary analysis of cross-sectional data from Bangladesh Health Facility Surveys (BHFS) conducted in 2014 and 2017. Availability was determined based on whether a facility offered at least one modern family planning method, and facility readiness was measured following the Service Availability and Readiness Assessment (SARA) manual. Descriptive statistics with 95% confidence intervals (CIs) were reported, and Poisson regression models were used to identify factors associated with health facility readiness.",
+      "Findings",
+      "The percentage of facilities offering modern family planning services increased significantly from approximately 81% (95% CI: 78, 85) in 2014 to 89% (95% CI: 87, 91) in 2017. The availability of oral pills, injectables, and male condoms increased over this period, while the availability of long-acting reversible contraceptives (LARCs) slightly decreased, and permanent methods (PMs) remained nearly unchanged. The overall mean readiness score of health facilities declined slightly, from about 54 (95% CI: 52, 56) in 2014 to 51 (95% CI: 50, 53) in 2017. Upazila Health Complexes and Maternal and Child Welfare Centers had significantly higher readiness compared to District Hospitals in 2017. Facilities that performed routine quality assurance activities, ensured 24-hour staff coverage, maintained a system for reviewing clients' feedback, and provided family planning services regularly demonstrated significantly higher readiness to provide modern family planning services in both 2014 and 2017. Regional disparities were also observed; facilities in rural areas had significantly lower readiness than those in urban areas, and facilities from the Rangpur division showed significantly higher readiness compared to those in Dhaka in both survey years.",
+      "Conclusion",
+      "The findings indicate a significant increase in the availability of health facilities offering modern family planning services in Bangladesh; however, a slight decline has been observed in their overall mean readiness score. Ensuring an adequate provision of equipment and supplies, expanding access to LARCs and PMs, and improving staff capacity through regular training are essential. Furthermore, strengthening quality assurance activities and investing in rural facilities are required for improving the facility readiness and advancing progress toward achieving SDG 3.7 targets of universal access to modern family planning services in Bangladesh."
+    ]
   },
   {
     "id": 41,
@@ -448,7 +821,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Evaluation of the causal effect of maternal education on the utilisation of maternal health services in Bangladesh using an observational study - a comparison of different propensity score methods and covariate adjustment.",
+    "abstract_paragraphs": [
+      "Background",
+      "Assessing maternal health care utilisation is imperative for the health of both mother and her child. Maternal education is an important determinant in subsequent maternal health care usage, according to research. There is a dearth of research on the causal relationship between maternal education and maternal health services as well as examining the performance of different propensity score methods for estimating absolute effects. Therefore, this study aims to estimate the effect of maternal education on usage of maternal health services minimising the confounding effect and to compare different propensity score approaches to estimate absolute effects of maternal education on usage of maternal health services.",
+      "Methods",
+      "We used data from a cross-sectional study conducted by icddr,b in Bangladesh. A total of 1300 recently delivered mothers were included in this study. We used different propensity score (PS) methods to estimate the causal effect of maternal education on receiving maternal health services, including PS matching, PS weighting, covariate adjustment using PS, as well as used modified log-Poisson regression with and without multiple covariates.",
+      "Results",
+      "The study revealed highly imbalanced possible confounding factors for mother's educational level, which might lead to erroneous estimates. All methods indicated a significant effect of higher maternal education, whether measured as a continuous scale or a binary variable (secondary or higher vs. below secondary) on maternal health services, significantly increased the likelihood of receiving four or more ANC, delivered at facility, PNC within 42 days and receiving all maternal health services compared to the mothers with lower level of education. The PS weighting provided precise estimates with a low range of confidence interval.",
+      "Conclusions",
+      "The results provided important insights on how well these techniques worked to reduce effect of confounding variables and achieve precise estimates. Propensity score weighting method performed better in terms of providing more precise estimates with a narrower range of confidence intervals, indicating that this method may be a reliable approach for estimating the causal effect of maternal education on maternal health service utilisation. However, careful consideration should be given to selecting the most appropriate method."
+    ]
   },
   {
     "id": 42,
@@ -459,7 +843,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Impact of COVID-19 on the utilisation of maternal health services in Bangladesh: A division-level analysis.",
+    "abstract_paragraphs": [
+      "Background",
+      "The coronavirus disease 2019 (COVID-19) pandemic had substantially disrupted maternal health care provision and utilisation in Bangladesh. However, the extent of geographical disparities in service utilisation and how the health system withstood these challenges have not been studied. This study explores the divisional disparities in trends and disruptions in maternal health service utilisation caused by the COVID-19 pandemic.",
+      "Methods",
+      "Data was extracted from the District Health Information Software of Bangladesh from January 2017 to December 2021. We assessed the trend of first antenatal care visit, institutional delivery and number of caesarean sections over these years. We explored both the yearly and monthly trends to see the variations in the number of utilisations. Segmented regression with Poisson distribution was used to assess changes in service utilisation during the COVID-19 period. We reported incidence rate ratio (IRR) of service utilisation with a 95% confidence interval (CI) in different divisions during COVID-19 (2020-2021) compared to the reference period (2017-2019).",
+      "Results",
+      "Initially, a notable decline in maternal health care utilisation was observed in 2020 compared to the pre-pandemic period of 2017-2019. Divisional disparities were observed in this trend. Overall, compared to the pre-pandemic period, we observed around 30% decline in all three selected indicators of maternal health care. The lowest value was observed in Chattogram in 2020 (IRR = 0.66; 95% CI = 0.55-0.79) and Rajshahi in 2021 (IRR = 0.71; 95% CI = 0.60-0.82). For institutional delivery, Barishal division had the lowest IRR (0.64; 95% CI = 0.60-0.68) in 2020 and, in 2021 Rajshahi had the lowest IRR (0.71; 95% CI = 0.60-0.82). For caesarean section, the lowest value was observed in Barishal division (IRR = 0.48; 95% CI = 0.44-0.53) in 2020 and in Mymensingh (IRR = 0.37; 95% CI = 0.32-0.43) in 2021. By 2021, the three maternal health care utilisation indicators demonstrated recovery.",
+      "Conclusions",
+      "The effect of the pandemic, including lockdown, on the selected maternal service utilisation was observed in Bangladesh though there were substantial geographic disparities. These disruptions slightly recovered after the initial shock. These results will support the government in preparing the national and regional health systems for future epidemics in Bangladesh."
+    ]
   },
   {
     "id": 43,
@@ -470,7 +865,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Effect of involvement of midwives in maternal care on patient and provider satisfaction in secondary-level public health facilities in Bangladesh: a comparative quasi-experimental study.",
+    "abstract_paragraphs": [
+      "Background",
+      "Maternity care satisfaction for pregnant women and recently delivered mothers is linked to both short- and long-term complications. For health care providers, dissatisfaction can lead to high turnover, reduced efficiency, and decreased service quality. Increased midwifery care coverage enhances satisfaction; however, the Government of Bangladesh-sanctioned midwife positions are limited to the primary health care level only, not extending to secondary or tertiary health tiers. We aimed to evaluate the impact of introducing midwifery care at secondary-level health care facilities in Bangladesh by comparing the satisfaction levels of both providers and patients with those receiving regular care.",
+      "Methods",
+      "We conducted a quasi-experimental study from September 2021 to December 2023 at two secondary-level health facilities - Sunamganj District Hospital (DH) (intervention) and Khagrachari DH (control). The primary outcome was the mean (x̄) percentage score of maternal satisfaction with antenatal care (ANC), delivery, and postnatal care (PNC) services, along with providers' satisfaction regarding their working environment, training, logistical support, and overall patient and service satisfaction at both facilities.",
+      "Results",
+      "We screened for eligibility a total of 200 pregnant women or recently delivered mothers who visited the facility for ANC, delivery, or PNC services. The satisfaction scores were significantly higher among women who received midwifery care compared to those who received regular care. The scores were for ANC x̄ = 97.8 (95% confidence interval (CI) = 96.6-99.0) vs. x̄ = 71.0 (95% CI = 68.7-73.4), for delivery x̄ = 97.9 (95% CI = 97.4-98.3) vs. x̄ = 83.3 (95% CI = 80.2-86.3), and for PNC x̄ = 97.5 (95% CI = 96.5-98.4) vs. x̄ = 77.7 (95% CI = 73.8-81.6). Similarly, the satisfaction score among midwives was significantly higher than among providers in regular care facilities (x̄ = 88.7; 95% CI = 82.9-94.5 vs. x̄ = 77.7; 95% CI = 73.0-82.3).",
+      "Conclusions",
+      "Our study highlights that midwifery care significantly enhances patient and provider satisfaction compared to regular care across antenatal, delivery, and postnatal services."
+    ]
   },
   {
     "id": 44,
@@ -481,7 +887,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Understanding the socio-demographic and programmatic factors associated with adolescent motherhood and its association with child undernutrition in Bangladesh.",
+    "abstract_paragraphs": [
+      "Background",
+      "Worldwide, a significant number of girls become mothers during adolescence. In Bangladesh, adolescent childbirth is highly prevalent and has adverse effects on children's health and undernutrition. We aimed to identify the relationship between the undernutrition of children and adolescent motherhood, the factors associated with adolescent mothers' age at first birth, and to examine the programmatic factors and gaps influencing children's undernutrition in Bangladesh.",
+      "Methods",
+      "We analysed the 'Bangladesh Demographic and Health Survey' BDHS-17-18 data and desk review. To examine the factors associated with adolescent motherhood and its impact on child undernutrition, data from 7,643 mother-child pairs were selected. Child stunting, wasting, and underweight were measured according to the World Health Organisation (WHO) median growth guidelines based on z-scores - 2. Univariate, bivariate, simple, and multiple logistic regressions were used for analyse. We followed the systematic procedures for the literature review.",
+      "Results",
+      "Approximately, 89% of adolescents aged ≤ 19 years were married and 71% of them gave their first childbirth. Children of adolescent mothers (≤ 19 years) were significantly 1.68 times more wasted (aOR: 1.68; 95% CI: 1.08 to 2.64), 1.37 times more underweight (aOR: 1.37; 95% CI: 1.01 to 1.86) and either form 1.32 times more stunting, wasting or underweight (aOR:1.32; 95% Cl: 1.05 to 1.66) compared to the children of adult mothers (> 19 years) after adjusting potential confounders. The factors associated with mothers' first childbirth during adolescence were the age gap between husband and wife 5-10 years (aOR: 1.81; 95% Cl: 1.57-2.10) and age gap > 10 years (aOR: 2.41; 95% Cl: 1.96-2.97) compared with the age group < 5 years, and husbands' education (aOR: 1.29; 95% Cl: 1.04-1.61) compared with the uneducated husbands. In the literature review, we found potential gaps in focusing on the Adolescent Sexual and Reproductive Health (ASRH) program in Bangladesh, from thirty-two programmes only half of them focused on adolescents aged 10-19 years, and eleven programmes focused only on girls.",
+      "Conclusion",
+      "Children of adolescent mothers are at risk of wasting, underweight, and any form of undernutrition. For effective policies and interventions in Bangladesh, it is important to emphasise delaying adolescent pregnancy and prioritising child undernutrition."
+    ]
   },
   {
     "id": 45,
@@ -492,7 +909,22 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Global Burden of Disease",
-    "topic_slug": "gbd"
+    "topic_slug": "gbd",
+    "title": "The burden of diseases and risk factors in Bangladesh, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019.",
+    "abstract_paragraphs": [
+      "Background",
+      "Bangladesh has made substantial progress in improving socioeconomic and health indicators over the past 50 years, but data on national disease burden are scarce. We used data from the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2019 to estimate the burden of diseases and risk factors in Bangladesh from 1990 to 2019.",
+      "Methods",
+      "For this systematic analysis, we analysed data from vital registration systems, surveys, and censuses using multistage modelling processes to estimate life expectancy at birth, mortality rate, years of life lost (YLLs), years lived with disability (YLDs), and disability-adjusted life-years (DALYs). Additionally, we compared the health status of Bangladesh with that of the other countries in the GBD south Asia region-Bhutan, India, Nepal, and Pakistan.",
+      "Findings",
+      "Life expectancy at birth in Bangladesh increased from 58·2 years (95% uncertainty interval 57·1-59·2) in 1990 to 74·6 years (72·4-76·7) in 2019. Between 1990 and 2019, the age-standardised mortality rate decreased from 1509·3 (1428·6-1592·1) to 714·4 (604·9-838·2) deaths per 100 000 population. In 2019, non-communicable diseases represented 14 of the top 20 causes of death; the leading three causes were stroke, ischaemic heart disease, and chronic obstructive pulmonary disease. High blood pressure, high fasting plasma glucose, and smoking were the top three risk factors. From 1990 to 2019, the rate of all-cause DALYs decreased by 54·9% (48·8-60·4). In 2019, the leading causes of DALYs and YLLs were neonatal disorders, stroke, and ischaemic heart disease, whereas musculoskeletal disorders, depressive disorders, and low back pain were the leading causes of YLDs. Bangladesh has the lowest age-standardised rates of mortality, YLDs, and YLLs and the highest life expectancy at birth in south Asia.",
+      "Interpretation",
+      "Over the past 30 years, mortality rates have reduced by more than half in Bangladesh. Bangladesh must now address the double burden of communicable and non-communicable diseases. Cost-effective, multisectoral efforts are needed to prevent and control non-communicable diseases, promote healthy lifestyles, and prevent premature mortality and disabilities.",
+      "Funding",
+      "Bill & Melinda Gates Foundation.",
+      "Translation",
+      "For the Bangla translation of the abstract see Supplementary Materials section."
+    ]
   },
   {
     "id": 46,
@@ -503,7 +935,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Global Burden of Disease",
-    "topic_slug": "gbd"
+    "topic_slug": "gbd",
+    "title": "Global age-sex-specific mortality, life expectancy, and population estimates in 204 countries and territories and 811 subnational locations, 1950-2021, and the impact of the COVID-19 pandemic: a comprehensive demographic analysis for the Global Burden of Disease Study 2021.",
+    "abstract_paragraphs": [
+      "Background",
+      "Estimates of demographic metrics are crucial to assess levels and trends of population health outcomes. The profound impact of the COVID-19 pandemic on populations worldwide has underscored the need for timely estimates to understand this unprecedented event within the context of long-term population health trends. The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2021 provides new demographic estimates for 204 countries and territories and 811 additional subnational locations from 1950 to 2021, with a particular emphasis on changes in mortality and life expectancy that occurred during the 2020-21 COVID-19 pandemic period.",
+      "Methods",
+      "22 223 data sources from vital registration, sample registration, surveys, censuses, and other sources were used to estimate mortality, with a subset of these sources used exclusively to estimate excess mortality due to the COVID-19 pandemic. 2026 data sources were used for population estimation. Additional sources were used to estimate migration; the effects of the HIV epidemic; and demographic discontinuities due to conflicts, famines, natural disasters, and pandemics, which are used as inputs for estimating mortality and population. Spatiotemporal Gaussian process regression (ST-GPR) was used to generate under-5 mortality rates, which synthesised 30 763 location-years of vital registration and sample registration data, 1365 surveys and censuses, and 80 other sources. ST-GPR was also used to estimate adult mortality (between ages 15 and 59 years) based on information from 31 642 location-years of vital registration and sample registration data, 355 surveys and censuses, and 24 other sources. Estimates of child and adult mortality rates were then used to generate life tables with a relational model life table system. For countries with large HIV epidemics, life tables were adjusted using independent estimates of HIV-specific mortality generated via an epidemiological analysis of HIV prevalence surveys, antenatal clinic serosurveillance, and other data sources. Excess mortality due to the COVID-19 pandemic in 2020 and 2021 was determined by subtracting observed all-cause mortality (adjusted for late registration and mortality anomalies) from the mortality expected in the absence of the pandemic. Expected mortality was calculated based on historical trends using an ensemble of models. In location-years where all-cause mortality data were unavailable, we estimated excess mortality rates using a regression model with covariates pertaining to the pandemic. Population size was computed using a Bayesian hierarchical cohort component model. Life expectancy was calculated using age-specific mortality rates and standard demographic methods. Uncertainty intervals (UIs) were calculated for every metric using the 25th and 975th ordered values from a 1000-draw posterior distribution.",
+      "Findings",
+      "Global all-cause mortality followed two distinct patterns over the study period: age-standardised mortality rates declined between 1950 and 2019 (a 62·8% [95% UI 60·5-65·1] decline), and increased during the COVID-19 pandemic period (2020-21; 5·1% [0·9-9·6] increase). In contrast with the overall reverse in mortality trends during the pandemic period, child mortality continued to decline, with 4·66 million (3·98-5·50) global deaths in children younger than 5 years in 2021 compared with 5·21 million (4·50-6·01) in 2019. An estimated 131 million (126-137) people died globally from all causes in 2020 and 2021 combined, of which 15·9 million (14·7-17·2) were due to the COVID-19 pandemic (measured by excess mortality, which includes deaths directly due to SARS-CoV-2 infection and those indirectly due to other social, economic, or behavioural changes associated with the pandemic). Excess mortality rates exceeded 150 deaths per 100 000 population during at least one year of the pandemic in 80 countries and territories, whereas 20 nations had a negative excess mortality rate in 2020 or 2021, indicating that all-cause mortality in these countries was lower during the pandemic than expected based on historical trends. Between 1950 and 2021, global life expectancy at birth increased by 22·7 years (20·8-24·8), from 49·0 years (46·7-51·3) to 71·7 years (70·9-72·5). Global life expectancy at birth declined by 1·6 years (1·0-2·2) between 2019 and 2021, reversing historical trends. An increase in life expectancy was only observed in 32 (15·7%) of 204 countries and territories between 2019 and 2021. The global population reached 7·89 billion (7·67-8·13) people in 2021, by which time 56 of 204 countries and territories had peaked and subsequently populations have declined. The largest proportion of population growth between 2020 and 2021 was in sub-Saharan Africa (39·5% [28·4-52·7]) and south Asia (26·3% [9·0-44·7]). From 2000 to 2021, the ratio of the population aged 65 years and older to the population aged younger than 15 years increased in 188 (92·2%) of 204 nations.",
+      "Interpretation",
+      "Global adult mortality rates markedly increased during the COVID-19 pandemic in 2020 and 2021, reversing past decreasing trends, while child mortality rates continued to decline, albeit more slowly than in earlier years. Although COVID-19 had a substantial impact on many demographic indicators during the first 2 years of the pandemic, overall global health progress over the 72 years evaluated has been profound, with considerable improvements in mortality and life expectancy. Additionally, we observed a deceleration of global population growth since 2017, despite steady or increasing growth in lower-income countries, combined with a continued global shift of population age structures towards older ages. These demographic changes will likely present future challenges to health systems, economies, and societies. The comprehensive demographic estimates reported here will enable researchers, policy makers, health practitioners, and other key stakeholders to better understand and address the profound changes that have occurred in the global health landscape following the first 2 years of the COVID-19 pandemic, and longer-term trends beyond the pandemic.",
+      "Funding",
+      "Bill & Melinda Gates Foundation."
+    ]
   },
   {
     "id": 47,
@@ -514,7 +959,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Global Burden of Disease",
-    "topic_slug": "gbd"
+    "topic_slug": "gbd",
+    "title": "Global fertility in 204 countries and territories, 1950-2021, with forecasts to 2100: a comprehensive demographic analysis for the Global Burden of Disease Study 2021.",
+    "abstract_paragraphs": [
+      "Background",
+      "Accurate assessments of current and future fertility-including overall trends and changing population age structures across countries and regions-are essential to help plan for the profound social, economic, environmental, and geopolitical challenges that these changes will bring. Estimates and projections of fertility are necessary to inform policies involving resource and health-care needs, labour supply, education, gender equality, and family planning and support. The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2021 produced up-to-date and comprehensive demographic assessments of key fertility indicators at global, regional, and national levels from 1950 to 2021 and forecast fertility metrics to 2100 based on a reference scenario and key policy-dependent alternative scenarios.",
+      "Methods",
+      "To estimate fertility indicators from 1950 to 2021, mixed-effects regression models and spatiotemporal Gaussian process regression were used to synthesise data from 8709 country-years of vital and sample registrations, 1455 surveys and censuses, and 150 other sources, and to generate age-specific fertility rates (ASFRs) for 5-year age groups from age 10 years to 54 years. ASFRs were summed across age groups to produce estimates of total fertility rate (TFR). Livebirths were calculated by multiplying ASFR and age-specific female population, then summing across ages 10-54 years. To forecast future fertility up to 2100, our Institute for Health Metrics and Evaluation (IHME) forecasting model was based on projections of completed cohort fertility at age 50 years (CCF50; the average number of children born over time to females from a specified birth cohort), which yields more stable and accurate measures of fertility than directly modelling TFR. CCF50 was modelled using an ensemble approach in which three sub-models (with two, three, and four covariates variously consisting of female educational attainment, contraceptive met need, population density in habitable areas, and under-5 mortality) were given equal weights, and analyses were conducted utilising the MR-BRT (meta-regression-Bayesian, regularised, trimmed) tool. To capture time-series trends in CCF50 not explained by these covariates, we used a first-order autoregressive model on the residual term. CCF50 as a proportion of each 5-year ASFR was predicted using a linear mixed-effects model with fixed-effects covariates (female educational attainment and contraceptive met need) and random intercepts for geographical regions. Projected TFRs were then computed for each calendar year as the sum of single-year ASFRs across age groups. The reference forecast is our estimate of the most likely fertility future given the model, past fertility, forecasts of covariates, and historical relationships between covariates and fertility. We additionally produced forecasts for multiple alternative scenarios in each location: the UN Sustainable Development Goal (SDG) for education is achieved by 2030; the contraceptive met need SDG is achieved by 2030; pro-natal policies are enacted to create supportive environments for those who give birth; and the previous three scenarios combined. Uncertainty from past data inputs and model estimation was propagated throughout analyses by taking 1000 draws for past and present fertility estimates and 500 draws for future forecasts from the estimated distribution for each metric, with 95% uncertainty intervals (UIs) given as the 2·5 and 97·5 percentiles of the draws. To evaluate the forecasting performance of our model and others, we computed skill values-a metric assessing gain in forecasting accuracy-by comparing predicted versus observed ASFRs from the past 15 years (2007-21). A positive skill metric indicates that the model being evaluated performs better than the baseline model (here, a simplified model holding 2007 values constant in the future), and a negative metric indicates that the evaluated model performs worse than baseline.",
+      "Findings",
+      "During the period from 1950 to 2021, global TFR more than halved, from 4·84 (95% UI 4·63-5·06) to 2·23 (2·09-2·38). Global annual livebirths peaked in 2016 at 142 million (95% UI 137-147), declining to 129 million (121-138) in 2021. Fertility rates declined in all countries and territories since 1950, with TFR remaining above 2·1-canonically considered replacement-level fertility-in 94 (46·1%) countries and territories in 2021. This included 44 of 46 countries in sub-Saharan Africa, which was the super-region with the largest share of livebirths in 2021 (29·2% [28·7-29·6]). 47 countries and territories in which lowest estimated fertility between 1950 and 2021 was below replacement experienced one or more subsequent years with higher fertility; only three of these locations rebounded above replacement levels. Future fertility rates were projected to continue to decline worldwide, reaching a global TFR of 1·83 (1·59-2·08) in 2050 and 1·59 (1·25-1·96) in 2100 under the reference scenario. The number of countries and territories with fertility rates remaining above replacement was forecast to be 49 (24·0%) in 2050 and only six (2·9%) in 2100, with three of these six countries included in the 2021 World Bank-defined low-income group, all located in the GBD super-region of sub-Saharan Africa. The proportion of livebirths occurring in sub-Saharan Africa was forecast to increase to more than half of the world's livebirths in 2100, to 41·3% (39·6-43·1) in 2050 and 54·3% (47·1-59·5) in 2100. The share of livebirths was projected to decline between 2021 and 2100 in most of the six other super-regions-decreasing, for example, in south Asia from 24·8% (23·7-25·8) in 2021 to 16·7% (14·3-19·1) in 2050 and 7·1% (4·4-10·1) in 2100-but was forecast to increase modestly in the north Africa and Middle East and high-income super-regions. Forecast estimates for the alternative combined scenario suggest that meeting SDG targets for education and contraceptive met need, as well as implementing pro-natal policies, would result in global TFRs of 1·65 (1·40-1·92) in 2050 and 1·62 (1·35-1·95) in 2100. The forecasting skill metric values for the IHME model were positive across all age groups, indicating that the model is better than the constant prediction.",
+      "Interpretation",
+      "Fertility is declining globally, with rates in more than half of all countries and territories in 2021 below replacement level. Trends since 2000 show considerable heterogeneity in the steepness of declines, and only a small number of countries experienced even a slight fertility rebound after their lowest observed rate, with none reaching replacement level. Additionally, the distribution of livebirths across the globe is shifting, with a greater proportion occurring in the lowest-income countries. Future fertility rates will continue to decline worldwide and will remain low even under successful implementation of pro-natal policies. These changes will have far-reaching economic and societal consequences due to ageing populations and declining workforces in higher-income countries, combined with an increasing share of livebirths among the already poorest regions of the world.",
+      "Funding",
+      "Bill & Melinda Gates Foundation."
+    ]
   },
   {
     "id": 48,
@@ -525,7 +983,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Global Burden of Disease",
-    "topic_slug": "gbd"
+    "topic_slug": "gbd",
+    "title": "Burden of disease scenarios for 204 countries and territories, 2022-2050: a forecasting analysis for the Global Burden of Disease Study 2021.",
+    "abstract_paragraphs": [
+      "Background",
+      "Future trends in disease burden and drivers of health are of great interest to policy makers and the public at large. This information can be used for policy and long-term health investment, planning, and prioritisation. We have expanded and improved upon previous forecasts produced as part of the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) and provide a reference forecast (the most likely future), and alternative scenarios assessing disease burden trajectories if selected sets of risk factors were eliminated from current levels by 2050.",
+      "Methods",
+      "Using forecasts of major drivers of health such as the Socio-demographic Index (SDI; a composite measure of lag-distributed income per capita, mean years of education, and total fertility under 25 years of age) and the full set of risk factor exposures captured by GBD, we provide cause-specific forecasts of mortality, years of life lost (YLLs), years lived with disability (YLDs), and disability-adjusted life-years (DALYs) by age and sex from 2022 to 2050 for 204 countries and territories, 21 GBD regions, seven super-regions, and the world. All analyses were done at the cause-specific level so that only risk factors deemed causal by the GBD comparative risk assessment influenced future trajectories of mortality for each disease. Cause-specific mortality was modelled using mixed-effects models with SDI and time as the main covariates, and the combined impact of causal risk factors as an offset in the model. At the all-cause mortality level, we captured unexplained variation by modelling residuals with an autoregressive integrated moving average model with drift attenuation. These all-cause forecasts constrained the cause-specific forecasts at successively deeper levels of the GBD cause hierarchy using cascading mortality models, thus ensuring a robust estimate of cause-specific mortality. For non-fatal measures (eg, low back pain), incidence and prevalence were forecasted from mixed-effects models with SDI as the main covariate, and YLDs were computed from the resulting prevalence forecasts and average disability weights from GBD. Alternative future scenarios were constructed by replacing appropriate reference trajectories for risk factors with hypothetical trajectories of gradual elimination of risk factor exposure from current levels to 2050. The scenarios were constructed from various sets of risk factors: environmental risks (Safer Environment scenario), risks associated with communicable, maternal, neonatal, and nutritional diseases (CMNNs; Improved Childhood Nutrition and Vaccination scenario), risks associated with major non-communicable diseases (NCDs; Improved Behavioural and Metabolic Risks scenario), and the combined effects of these three scenarios. Using the Shared Socioeconomic Pathways climate scenarios SSP2-4.5 as reference and SSP1-1.9 as an optimistic alternative in the Safer Environment scenario, we accounted for climate change impact on health by using the most recent Intergovernmental Panel on Climate Change temperature forecasts and published trajectories of ambient air pollution for the same two scenarios. Life expectancy and healthy life expectancy were computed using standard methods. The forecasting framework includes computing the age-sex-specific future population for each location and separately for each scenario. 95% uncertainty intervals (UIs) for each individual future estimate were derived from the 2·5th and 97·5th percentiles of distributions generated from propagating 500 draws through the multistage computational pipeline.",
+      "Findings",
+      "In the reference scenario forecast, global and super-regional life expectancy increased from 2022 to 2050, but improvement was at a slower pace than in the three decades preceding the COVID-19 pandemic (beginning in 2020). Gains in future life expectancy were forecasted to be greatest in super-regions with comparatively low life expectancies (such as sub-Saharan Africa) compared with super-regions with higher life expectancies (such as the high-income super-region), leading to a trend towards convergence in life expectancy across locations between now and 2050. At the super-region level, forecasted healthy life expectancy patterns were similar to those of life expectancies. Forecasts for the reference scenario found that health will improve in the coming decades, with all-cause age-standardised DALY rates decreasing in every GBD super-region. The total DALY burden measured in counts, however, will increase in every super-region, largely a function of population ageing and growth. We also forecasted that both DALY counts and age-standardised DALY rates will continue to shift from CMNNs to NCDs, with the most pronounced shifts occurring in sub-Saharan Africa (60·1% [95% UI 56·8-63·1] of DALYs were from CMNNs in 2022 compared with 35·8% [31·0-45·0] in 2050) and south Asia (31·7% [29·2-34·1] to 15·5% [13·7-17·5]). This shift is reflected in the leading global causes of DALYs, with the top four causes in 2050 being ischaemic heart disease, stroke, diabetes, and chronic obstructive pulmonary disease, compared with 2022, with ischaemic heart disease, neonatal disorders, stroke, and lower respiratory infections at the top. The global proportion of DALYs due to YLDs likewise increased from 33·8% (27·4-40·3) to 41·1% (33·9-48·1) from 2022 to 2050, demonstrating an important shift in overall disease burden towards morbidity and away from premature death. The largest shift of this kind was forecasted for sub-Saharan Africa, from 20·1% (15·6-25·3) of DALYs due to YLDs in 2022 to 35·6% (26·5-43·0) in 2050. In the assessment of alternative future scenarios, the combined effects of the scenarios (Safer Environment, Improved Childhood Nutrition and Vaccination, and Improved Behavioural and Metabolic Risks scenarios) demonstrated an important decrease in the global burden of DALYs in 2050 of 15·4% (13·5-17·5) compared with the reference scenario, with decreases across super-regions ranging from 10·4% (9·7-11·3) in the high-income super-region to 23·9% (20·7-27·3) in north Africa and the Middle East. The Safer Environment scenario had its largest decrease in sub-Saharan Africa (5·2% [3·5-6·8]), the Improved Behavioural and Metabolic Risks scenario in north Africa and the Middle East (23·2% [20·2-26·5]), and the Improved Nutrition and Vaccination scenario in sub-Saharan Africa (2·0% [-0·6 to 3·6]).",
+      "Interpretation",
+      "Globally, life expectancy and age-standardised disease burden were forecasted to improve between 2022 and 2050, with the majority of the burden continuing to shift from CMNNs to NCDs. That said, continued progress on reducing the CMNN disease burden will be dependent on maintaining investment in and policy emphasis on CMNN disease prevention and treatment. Mostly due to growth and ageing of populations, the number of deaths and DALYs due to all causes combined will generally increase. By constructing alternative future scenarios wherein certain risk exposures are eliminated by 2050, we have shown that opportunities exist to substantially improve health outcomes in the future through concerted efforts to prevent exposure to well established risk factors and to expand access to key health interventions.",
+      "Funding",
+      "Bill & Melinda Gates Foundation."
+    ]
   },
   {
     "id": 49,
@@ -536,7 +1007,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Global Burden of Disease",
-    "topic_slug": "gbd"
+    "topic_slug": "gbd",
+    "title": "Global burden and strength of evidence for 88 risk factors in 204 countries and 811 subnational locations, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021.",
+    "abstract_paragraphs": [
+      "Background",
+      "Understanding the health consequences associated with exposure to risk factors is necessary to inform public health policy and practice. To systematically quantify the contributions of risk factor exposures to specific health outcomes, the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2021 aims to provide comprehensive estimates of exposure levels, relative health risks, and attributable burden of disease for 88 risk factors in 204 countries and territories and 811 subnational locations, from 1990 to 2021.",
+      "Methods",
+      "The GBD 2021 risk factor analysis used data from 54 561 total distinct sources to produce epidemiological estimates for 88 risk factors and their associated health outcomes for a total of 631 risk-outcome pairs. Pairs were included on the basis of data-driven determination of a risk-outcome association. Age-sex-location-year-specific estimates were generated at global, regional, and national levels. Our approach followed the comparative risk assessment framework predicated on a causal web of hierarchically organised, potentially combinative, modifiable risks. Relative risks (RRs) of a given outcome occurring as a function of risk factor exposure were estimated separately for each risk-outcome pair, and summary exposure values (SEVs), representing risk-weighted exposure prevalence, and theoretical minimum risk exposure levels (TMRELs) were estimated for each risk factor. These estimates were used to calculate the population attributable fraction (PAF; ie, the proportional change in health risk that would occur if exposure to a risk factor were reduced to the TMREL). The product of PAFs and disease burden associated with a given outcome, measured in disability-adjusted life-years (DALYs), yielded measures of attributable burden (ie, the proportion of total disease burden attributable to a particular risk factor or combination of risk factors). Adjustments for mediation were applied to account for relationships involving risk factors that act indirectly on outcomes via intermediate risks. Attributable burden estimates were stratified by Socio-demographic Index (SDI) quintile and presented as counts, age-standardised rates, and rankings. To complement estimates of RR and attributable burden, newly developed burden of proof risk function (BPRF) methods were applied to yield supplementary, conservative interpretations of risk-outcome associations based on the consistency of underlying evidence, accounting for unexplained heterogeneity between input data from different studies. Estimates reported represent the mean value across 500 draws from the estimate's distribution, with 95% uncertainty intervals (UIs) calculated as the 2·5th and 97·5th percentile values across the draws.",
+      "Findings",
+      "Among the specific risk factors analysed for this study, particulate matter air pollution was the leading contributor to the global disease burden in 2021, contributing 8·0% (95% UI 6·7-9·4) of total DALYs, followed by high systolic blood pressure (SBP; 7·8% [6·4-9·2]), smoking (5·7% [4·7-6·8]), low birthweight and short gestation (5·6% [4·8-6·3]), and high fasting plasma glucose (FPG; 5·4% [4·8-6·0]). For younger demographics (ie, those aged 0-4 years and 5-14 years), risks such as low birthweight and short gestation and unsafe water, sanitation, and handwashing (WaSH) were among the leading risk factors, while for older age groups, metabolic risks such as high SBP, high body-mass index (BMI), high FPG, and high LDL cholesterol had a greater impact. From 2000 to 2021, there was an observable shift in global health challenges, marked by a decline in the number of all-age DALYs broadly attributable to behavioural risks (decrease of 20·7% [13·9-27·7]) and environmental and occupational risks (decrease of 22·0% [15·5-28·8]), coupled with a 49·4% (42·3-56·9) increase in DALYs attributable to metabolic risks, all reflecting ageing populations and changing lifestyles on a global scale. Age-standardised global DALY rates attributable to high BMI and high FPG rose considerably (15·7% [9·9-21·7] for high BMI and 7·9% [3·3-12·9] for high FPG) over this period, with exposure to these risks increasing annually at rates of 1·8% (1·6-1·9) for high BMI and 1·3% (1·1-1·5) for high FPG. By contrast, the global risk-attributable burden and exposure to many other risk factors declined, notably for risks such as child growth failure and unsafe water source, with age-standardised attributable DALYs decreasing by 71·5% (64·4-78·8) for child growth failure and 66·3% (60·2-72·0) for unsafe water source. We separated risk factors into three groups according to trajectory over time: those with a decreasing attributable burden, due largely to declining risk exposure (eg, diet high in trans-fat and household air pollution) but also to proportionally smaller child and youth populations (eg, child and maternal malnutrition); those for which the burden increased moderately in spite of declining risk exposure, due largely to population ageing (eg, smoking); and those for which the burden increased considerably due to both increasing risk exposure and population ageing (eg, ambient particulate matter air pollution, high BMI, high FPG, and high SBP).",
+      "Interpretation",
+      "Substantial progress has been made in reducing the global disease burden attributable to a range of risk factors, particularly those related to maternal and child health, WaSH, and household air pollution. Maintaining efforts to minimise the impact of these risk factors, especially in low SDI locations, is necessary to sustain progress. Successes in moderating the smoking-related burden by reducing risk exposure highlight the need to advance policies that reduce exposure to other leading risk factors such as ambient particulate matter air pollution and high SBP. Troubling increases in high FPG, high BMI, and other risk factors related to obesity and metabolic syndrome indicate an urgent need to identify and implement interventions.",
+      "Funding",
+      "Bill & Melinda Gates Foundation."
+    ]
   },
   {
     "id": 50,
@@ -547,7 +1031,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Global Burden of Disease",
-    "topic_slug": "gbd"
+    "topic_slug": "gbd",
+    "title": "Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021.",
+    "abstract_paragraphs": [
+      "Background",
+      "Regular, detailed reporting on population health by underlying cause of death is fundamental for public health decision making. Cause-specific estimates of mortality and the subsequent effects on life expectancy worldwide are valuable metrics to gauge progress in reducing mortality rates. These estimates are particularly important following large-scale mortality spikes, such as the COVID-19 pandemic. When systematically analysed, mortality rates and life expectancy allow comparisons of the consequences of causes of death globally and over time, providing a nuanced understanding of the effect of these causes on global populations.",
+      "Methods",
+      "The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2021 cause-of-death analysis estimated mortality and years of life lost (YLLs) from 288 causes of death by age-sex-location-year in 204 countries and territories and 811 subnational locations for each year from 1990 until 2021. The analysis used 56 604 data sources, including data from vital registration and verbal autopsy as well as surveys, censuses, surveillance systems, and cancer registries, among others. As with previous GBD rounds, cause-specific death rates for most causes were estimated using the Cause of Death Ensemble model-a modelling tool developed for GBD to assess the out-of-sample predictive validity of different statistical models and covariate permutations and combine those results to produce cause-specific mortality estimates-with alternative strategies adapted to model causes with insufficient data, substantial changes in reporting over the study period, or unusual epidemiology. YLLs were computed as the product of the number of deaths for each cause-age-sex-location-year and the standard life expectancy at each age. As part of the modelling process, uncertainty intervals (UIs) were generated using the 2·5th and 97·5th percentiles from a 1000-draw distribution for each metric. We decomposed life expectancy by cause of death, location, and year to show cause-specific effects on life expectancy from 1990 to 2021. We also used the coefficient of variation and the fraction of population affected by 90% of deaths to highlight concentrations of mortality. Findings are reported in counts and age-standardised rates. Methodological improvements for cause-of-death estimates in GBD 2021 include the expansion of under-5-years age group to include four new age groups, enhanced methods to account for stochastic variation of sparse data, and the inclusion of COVID-19 and other pandemic-related mortality-which includes excess mortality associated with the pandemic, excluding COVID-19, lower respiratory infections, measles, malaria, and pertussis. For this analysis, 199 new country-years of vital registration cause-of-death data, 5 country-years of surveillance data, 21 country-years of verbal autopsy data, and 94 country-years of other data types were added to those used in previous GBD rounds.",
+      "Findings",
+      "The leading causes of age-standardised deaths globally were the same in 2019 as they were in 1990; in descending order, these were, ischaemic heart disease, stroke, chronic obstructive pulmonary disease, and lower respiratory infections. In 2021, however, COVID-19 replaced stroke as the second-leading age-standardised cause of death, with 94·0 deaths (95% UI 89·2-100·0) per 100 000 population. The COVID-19 pandemic shifted the rankings of the leading five causes, lowering stroke to the third-leading and chronic obstructive pulmonary disease to the fourth-leading position. In 2021, the highest age-standardised death rates from COVID-19 occurred in sub-Saharan Africa (271·0 deaths [250·1-290·7] per 100 000 population) and Latin America and the Caribbean (195·4 deaths [182·1-211·4] per 100 000 population). The lowest age-standardised death rates from COVID-19 were in the high-income super-region (48·1 deaths [47·4-48·8] per 100 000 population) and southeast Asia, east Asia, and Oceania (23·2 deaths [16·3-37·2] per 100 000 population). Globally, life expectancy steadily improved between 1990 and 2019 for 18 of the 22 investigated causes. Decomposition of global and regional life expectancy showed the positive effect that reductions in deaths from enteric infections, lower respiratory infections, stroke, and neonatal deaths, among others have contributed to improved survival over the study period. However, a net reduction of 1·6 years occurred in global life expectancy between 2019 and 2021, primarily due to increased death rates from COVID-19 and other pandemic-related mortality. Life expectancy was highly variable between super-regions over the study period, with southeast Asia, east Asia, and Oceania gaining 8·3 years (6·7-9·9) overall, while having the smallest reduction in life expectancy due to COVID-19 (0·4 years). The largest reduction in life expectancy due to COVID-19 occurred in Latin America and the Caribbean (3·6 years). Additionally, 53 of the 288 causes of death were highly concentrated in locations with less than 50% of the global population as of 2021, and these causes of death became progressively more concentrated since 1990, when only 44 causes showed this pattern. The concentration phenomenon is discussed heuristically with respect to enteric and lower respiratory infections, malaria, HIV/AIDS, neonatal disorders, tuberculosis, and measles.",
+      "Interpretation",
+      "Long-standing gains in life expectancy and reductions in many of the leading causes of death have been disrupted by the COVID-19 pandemic, the adverse effects of which were spread unevenly among populations. Despite the pandemic, there has been continued progress in combatting several notable causes of death, leading to improved global life expectancy over the study period. Each of the seven GBD super-regions showed an overall improvement from 1990 and 2021, obscuring the negative effect in the years of the pandemic. Additionally, our findings regarding regional variation in causes of death driving increases in life expectancy hold clear policy utility. Analyses of shifting mortality trends reveal that several causes, once widespread globally, are now increasingly concentrated geographically. These changes in mortality concentration, alongside further investigation of changing risks, interventions, and relevant policy, present an important opportunity to deepen our understanding of mortality-reduction strategies. Examining patterns in mortality concentration might reveal areas where successful public health interventions have been implemented. Translating these successes to locations where certain causes of death remain entrenched can inform policies that work to improve life expectancy for people everywhere.",
+      "Funding",
+      "Bill & Melinda Gates Foundation."
+    ]
   },
   {
     "id": 51,
@@ -558,7 +1055,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Adolescent and young adult mortality in Bangladesh: findings from household surveys.",
+    "abstract_paragraphs": [
+      "Background",
+      "In 2021, over 1.5 million adolescents (aged 10-19 years) and young adults (aged 20-24 years) died globally, approximately 4500 deaths daily. However, research on causes and factors influencing deaths among adolescents and young adults in Bangladesh is limited. We aimed to address this gap by identifying the leading causes of mortality and the factors affecting adolescent and young adult deaths.",
+      "Methods",
+      "We conducted two cross-sectional, population-based surveys in urban Dhaka (December 2022) and rural Sitakunda (May 2023), covering 53 680 households and 250 249 individuals, with 72 530 aged 10-24 years. Between 2018-22, 163 deaths in this age group were recorded. We conducted verbal autopsies using the World Health Organization tool and assigned causes of death using the InSilicoVA algorithm. With descriptive statistics, we reported cause-specific mortality and utilised Cox proportional hazards models to estimate associations with background characteristics.",
+      "Results",
+      "Road traffic accidents were the primary cause of death, accounting for 10% (n = 17) among adolescents and 10% (n = 16) among young adults, followed by respiratory diseases (14% in adolescents and 3% in young adults). Older adolescents (adjusted hazard ratio (AHR) = 2.0; 95% confidence interval (CI) = 1.4-3.0) and young adults (AHR = 1.6; 95% CI = 1.1-1.4) had a higher risk of death compared to early adolescents. Individuals with high wealth status had a lower risk of death (AHR = 0.5; 95% CI = 0.3-0.8) compared to those with low wealth status. Adolescents and young adults with no education had a higher likelihood of dying compared to those with education (AHR = 5.6; 95% CI = 3.7-8.2).",
+      "Conclusions",
+      "To prevent untimely mortality among adolescents and young adults, efforts should prioritise leading causes such as road traffic accidents and respiratory diseases, and address vulnerabilities among rural residents, the uneducated, and those with low socioeconomic status. We recommend strengthening existing health programs for adolescents and young adults to reduce preventable deaths."
+    ]
   },
   {
     "id": 52,
@@ -569,7 +1077,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Prevalence and correlates of diabetes distress and depressive symptoms among individuals with type-2 diabetes mellitus during Ramadan fasting: A cross-sectional study in Bangladesh amid the COVID-19.",
+    "abstract_paragraphs": [
+      "Aims",
+      "Psychological concerns relating to \"diabetes distress\" (DD) and depressive symptoms (DS) in individuals with type-2 diabetes mellitus (T2DM) may negatively impact adherence to medical treatments and overall mental health. Thus, this study was undertaken to investigate DS and DD in relation to fasting during the month of Ramadan.",
+      "Methods",
+      "A cross-sectional survey was conducted among 735 patients with T2DM in 2021. DD and DS were measured by the Problem Areas in Diabetes scale and Patient Health Questionnaire-9, respectively. Logistic regression and correlation analyses were executed.",
+      "Results",
+      "More than one-third of the participants (41.2%) had DD and DS (36.9%). DS was significantly higher in participants who did not fast (p = 0.027). Participants who had higher dietary diversity were less likely to have DD (p = 0.004) and DS (p = 0.001). Females (AOR = 1.89, 95% CI: 1.25-2.85) and those who lived alone (AOR = 1.89, 95% CI: 1.25-2.85) were more likely to have DS. Participants with diabetes-related complications were more likely to experience DS (AOR = 2.17; 95% CI: 1.5-3.13) and DD (AOR = 3.46; 95% CI: 2.42-4.95). DD was also associated with being younger (p = 0.003), having hypertension (p = 0.030), having heart disease (p = 0.012), and taking insulin (p = 0.010).",
+      "Conclusions",
+      "Individuals with T2DM who were not fasting experienced more mental health concerns. Psychosocial support and other interventions from health professionals should be examined and empirical interventions should be implemented to promote the mental health and well-being of individuals with T2DM."
+    ]
   },
   {
     "id": 53,
@@ -580,7 +1099,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Depressive symptoms associated with loneliness and physical activities among graduate university students in Bangladesh: findings from a cross-sectional pilot study.",
+    "abstract_paragraphs": [
+      "In low-resource settings like Bangladesh, there is a dearth of research on the mental health of university students. This pilot study aimed to identify the prevalence of depressive symptoms, loneliness, and physical activities as well as the associated factors of depressive symptoms among graduate students in a public university of Bangladesh. This cross-sectional study was carried out among 323 graduate students between February 2019 and May 2019. By the convenience sampling technique, data were collected by a pretested, structured questionnaire. Depressive symptoms were assessed by the validated Patient Health Questionnaire-9 (PHQ-9) tool with a cut-off score of ≥10 vs. less; University of California, Los Angeles (UCLA) loneliness scale was applied to assess loneliness, International Physical Activity Questionnaire (IPAQ) scale was used to measure physical activity level. The overall prevalence of depressive symptoms was 52% and about 43% of participants felt most lonely. About 32.8% of students were involved in low physical activity. Being female, from lower income families, having poor academic performance, experiencing shorter sleep time, lower physical activity, and being lonely were potential risk factors for depressive symptoms among graduate university students. A positive correlation was found between loneliness and depressive symptoms of students (r = 0.367, p < 0.001). The higher prevalence of depressive symptoms among Bangladeshi graduate university students suggests the need for situation analysis, confirmatory clinical diagnosis, in-depth qualitative explorations, and large-scale surveys to explore the burden of such disorders and design appropriate low-intensity interventions like implementing student counselling service, offering mental assistance or other mental health support program in the country."
+    ]
   },
   {
     "id": 54,
@@ -591,7 +1114,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Mental health difficulties of adults with COVID-19-like symptoms in Bangladesh: A cross-sectional correlational study.",
+    "abstract_paragraphs": [
+      "Background",
+      "The rapid spread of novel corona virus disease (COVID-19) coupled with inefficient testing capacities in Bangladesh has resulted in a number of deaths from COVID-19-like symptoms that have no official test results. This study was the first study that explored the mental health of adults with the most common COVID-19-like symptoms in Bangladesh.",
+      "Methods",
+      "This cross-sectional correlational study gathered data via an online survey to explore the mental health of Bangladeshi adults with symptoms akin to COVID-19. Level of stress, anxiety symptoms, and depressive symptoms were measured with the DASS-21. Chi-square tests and multivariate logistic regression was performed to examine the association of variables.",
+      "Results",
+      "The prevalence rates of anxiety symptoms and depressive symptoms of the overall population were 26.9% and 52.0% respectively and 55.6% reported mild to extremely severe levels of stress. Multivariate logistic regression determined that respondents with COVID-19-like symptoms reported higher odds for stress level (AOR = 2.043, CI = 1.51 to 2.76), anxiety symptoms (AOR = 2.770, CI = 2.04 to 3.77) and depressive symptoms (AOR = 1.482, CI = 1.12 to 1.96) than asymptomatic respondents.",
+      "Limitations",
+      "There was a chance of recall bias as it was not possible to validate the information due to the retrospective design of the study. Recruitment methods only captured internet users, which reduces the generalizability of findings.",
+      "Conclusions",
+      "Patients with symptoms like those of COVID-19 should be prioritized in the healthcare setting in order to reduce mental health difficulties throughout the pandemic ."
+    ]
   },
   {
     "id": 55,
@@ -602,7 +1138,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Potential toxic metals (PTMs) contamination in agricultural soils and foodstuffs with associated source identification and model uncertainty.",
+    "abstract_paragraphs": [
+      "The research aimed to find out physiochemical properties, metal concentration, sources of metals using statistical analyses, and positive matrix factorization (PMF) model using 315 soil and 250 foodstuff samples (25 species) in Jhenidah as well as Kushtia district, Bangladesh. The range of Pb, Cd, As, Cu, Ni and Cr contents (mg/kg) in soils were found to be 0.97-114.72, 0.11-7.51, 1.07-23.38, 0.89-122.91, 0.91-77.32 and 0.7-23.03 mg/kg, respectively, whereas those in foodstuff samples were found to be 0.46-11.48, 0.30-11.54, 0.47-9.21, 0.20-3.59, 0.001-1.76, and 0.27-5.93 mg/kg, respectively. PMF model revealed that Cu (81.4%) in the study area soils were predominantly contributed by vehicular fuel combustion, Cr (84.9%) was primarily of natural origin, Pb (73%) resulted from traffic emissions, Cd (74.3%), and As (63.4%) mainly came from agricultural practices while Ni (70.9%) was dominated as industrial pollution. EF > 1.5 of Cu, As, and Pb suggesting mild contamination; however, soils from all the studied sites revealed moderate potential ecological risk. Cr recorded BCF values of >1 in the majority of the examined crops, suggesting higher uptake of Cr than other metals. Cr, Ni, As, and Pb showed cancer risks from food intake and risk values were greater than the threshold range (10-4), suggesting potential cancer risks."
+    ]
   },
   {
     "id": 56,
@@ -613,7 +1153,18 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Unveiling the dimension of regional disparities: Assessing the disruption of immunisation services by COVID-19 in Bangladesh.",
+    "abstract_paragraphs": [
+      "Background",
+      "The coronavirus disease 2019 (COVID-19) pandemic disrupted essential health care services worldwide, including those related to immunisation. National data from Bangladesh shows that child immunisation may have been adversely affected by the pandemic but regional evidence is limited. We therefore aimed to explore the regional differences in the indirect effects of COVID-19 on child immunisation in Bangladesh.",
+      "Methods",
+      "We extracted data from the District Health Information Software (DHIS2) spanning the period from January 2017 to December 2021. We examined three essential immunisation indicators: Bacille Calmette-Guérin (BCG), pentavalent third dose, and measles vaccinations. We examined both the yearly and monthly trends to explore fluctuations in the number of immunisations to pinpoint specific periods of service utilisation regression. Segmented regression with Poisson distribution was implemented given the count-based outcome. We reported incidence rate ratios (IRRs) with 95% confidence intervals (CIs) in different regions in 2020 and 2021 compared to the reference period (2017-19).",
+      "Results",
+      "We initially observed a notable decline in vaccine administration in April 2020 compared to the pre-pandemic period of 2017-19 with a drop of approximately 53% for BCG vaccines, 55% for pentavalent third doses, and 51% for measles vaccines followed by May 2020. The second half of 2020 saw an increase in vaccination numbers. There were noticeable regional disparities, with Sylhet (IRR = 0.75; 95% CI = 0.67-0.84 for pentavalent administration, IRR = 0.79; 95% CI = 0.71-0.88 for measles administration) and Chattogram (IRR = 0.77; 95% CI = 0.72-0.83 for BCG administration) experiencing the most significant reductions in 2020. In April 2020, Dhaka also experienced the largest decline of 67% in measles vaccination. In 2021, most divisions experienced a rebound in BCG and pentavalent administration, exceeding 2019 levels, except for Chittagong, where numbers continued to decline, falling below the 2019 figure.",
+      "Conclusions",
+      "Our findings highlight the impact of the COVID-19 pandemic on childhood immunisation across regions in Bangladesh. Sylhet, Chattogram, and Dhaka divisions experienced the most significant reductions in immunisation services during 2020. This underscores the importance of targeted interventions and regional strategies to mitigate the indirect effects of future challenges on essential health care services, particularly childhood immunisation, in Bangladesh."
+    ]
   },
   {
     "id": 57,
@@ -624,7 +1175,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Maternal and Child Health",
-    "topic_slug": "maternal"
+    "topic_slug": "maternal",
+    "title": "Anxiety and depression among reproductive-aged women in Bangladesh: burden, determinants, and care-seeking practices based on a nationally representative demographic and health survey.",
+    "abstract_paragraphs": [
+      "Purpose",
+      "This study aimed to investigate the prevalence, determinants, and care-seeking practices for anxiety and depression among reproductive-aged women in Bangladesh.",
+      "Methods",
+      "We utilized data from the 2022 Bangladesh Demographic and Health Survey, with a total weighted sample of 20,029 women aged 15-49. Anxiety and depression symptoms were assessed using the Generalized Anxiety Disorder-7 (GAD-7) scale and the Patient Health Questionnaire (PHQ-9) scale, respectively. Prevalence was reported with 95% confidence intervals (CI). Multiple logistic regression was conducted to identify associated factors, and the results were presented as adjusted odds ratios (AOR) with 95% CI.",
+      "Results",
+      "Among women, 4% (95% CI: 3.9%, 4.9%) had symptoms of moderate to severe anxiety, and 5% had moderate to severe depression. The prevalence of both symptoms was significantly higher (p < 0.05) in Khulna, Rangpur, and Sylhet. Older women (45-49 years) (anxiety: AOR: 2.33, 95% CI: 1.55, 3.50; depression: AOR: 1.63, 95% CI: 1.15, 2.31) and women who made all major household decisions (anxiety: AOR: 1.30, 95% CI: 1.00, 1.69; depression: AOR: 1.41, 95% CI: 1.07, 1.80) were more likely to experience moderate to severe anxiety and depression. Among women with symptoms of moderate to severe anxiety or depression, 22% (95% CI: 19.9%, 25.0%) sought care, and 8% (95% CI: 6.6%, 10.1%) used medication.",
+      "Conclusion",
+      "The findings highlight a significant burden of anxiety and depression among women in Bangladesh, with notable regional disparities. These insights underscore the need for targeted interventions to address regional disparities, support vulnerable groups such as older women and those involved in household decision-making, and integrate mental health services into primary healthcare for better mental well-being among women in Bangladesh.",
+      "Article highlights",
+      "In Bangladesh, 4% and 5% of reproductive-aged women experienced moderate to severe symptoms of anxiety and depression respectively. Highest prevalence of anxiety and depression was in Khulna, Rangpur, and Sylhet. Women with older age and higher decision-making autonomy are associated with anxiety and depression. 22% of women with symptoms of anxiety and depression sought care from a healthcare provider and 8% took medication."
+    ]
   },
   {
     "id": 58,
@@ -635,7 +1199,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Comprehensive evaluation of chemical properties and toxic metals in the surface water of Louhajang River, Bangladesh.",
+    "abstract_paragraphs": [
+      "Louhajang River, Bangladesh, which crosses Tangail as a densely industrialized and urbanized city, supplies water for different purposes. This study reports the levels of pH, electrical conductivity (EC), and some toxic heavy metals in 40 water samples collected during the summer and winter seasons from Louhajang River. The winter season reported higher levels of the examined parameters than the summer season with significant variation (p < 0.05) for all parameters, with the exception of Cd. The metal contents were assessed against local and international standards for drinking, irrigation, and aquatic life purposes where different trends were observed. The heavy metal evaluation index and the ecological risk index reported low to moderate risks. The spatial distribution of metal contents assigned hot spots in some sites along the riverbed. The health risk assessment for three population categories, i.e., adult male, adult female, and children, was examined. Cr and Cd recorded hazard index > 1 in all cases, indicating possible non-cancer risk. The total carcinogenic risk values during both seasons were > 1.0 × 10-6, indicating possible cancer risk. The adopted collection of different approaches (comparison against standard levels of toxicants, statistical analysis, spatial distribution, and health risk assessment) successfully demonstrates a whole picture of the environmental status of Louhajang River, Bangladesh."
+    ]
   },
   {
     "id": 59,
@@ -646,7 +1214,11 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "WASH and Nutrition",
-    "topic_slug": "wash"
+    "topic_slug": "wash",
+    "title": "Presence of toxic metals in rice with human health hazards in Tangail district of Bangladesh.",
+    "abstract_paragraphs": [
+      "Rice is the staple food of Bangladeshi people and is consumed at least twice a day. Thus, the presence of toxic metals in rice grains has become a major public health concern in Bangladesh. The present research was conducted to investigate the concentrations of toxic metals in rice grains and their possible human health risks in the Tangail district of Bangladesh. Toxic metals were measured by using an inductively coupled plasma mass spectrometer (ICP-MS), and the mean concentrations of toxic metals in rice samples were found in order of Cr > Pb > Ni > As > Cu > Cd. The concentrations of Cr, Pb, As, and Cd in the studied rice grain samples exceeded the FAO/WHO standard values for food samples by 100%, whereas the Ni concentrations by 10%. The principal component analysis (PCA) revealed significant anthropogenic contributions of Cr, Ni, As, and Pb concentrations in rice grains. The metal concentrations in rice grain samples showed strong significant correlations by forming primary clusters with each other. The estimated daily intake (EDI) values of Cr, Ni, As, Cd, and Pb from all samples were higher than the maximum tolerable daily intake (MTDI) allowed. The total targeted hazard quotient (TTHQ) values of Cu, Ni, As, Cd, and Pb also exceeded the threshold value of 1.00, indicating a potential non-carcinogenic risk. The estimated target carcinogenic risk of As was higher than the USEPA threshold level 10-4 (0.0001) indicating increased risk of cancer for adults and children in the study area."
+    ]
   },
   {
     "id": 60,
@@ -657,7 +1229,20 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Implications of Big Data Analytics, AI, Machine Learning, and Deep Learning in the Health Care System of Bangladesh: Scoping Review.",
+    "abstract_paragraphs": [
+      "Background",
+      "The rapid advancement of digital technologies, particularly in big data analytics (BDA), artificial intelligence (AI), machine learning (ML), and deep learning (DL), is reshaping the global health care system, including in Bangladesh. The increased adoption of these technologies in health care delivery within Bangladesh has sparked their integration into health care and public health research, resulting in a noticeable surge in related studies. However, a critical gap exists, as there is a lack of comprehensive evidence regarding the research landscape; regulatory challenges; use cases; and the application and adoption of BDA, AI, ML, and DL in the health care system of Bangladesh. This gap impedes the attainment of optimal results. As Bangladesh is a leading implementer of digital technologies, bridging this gap is urgent for the effective use of these advancing technologies.",
+      "Objective",
+      "This scoping review aims to collate (1) the existing research in Bangladesh's health care system, using the aforementioned technologies and synthesizing their findings, and (2) the limitations faced by researchers in integrating the aforementioned technologies into health care research.",
+      "Methods",
+      "MEDLINE (via PubMed), IEEE Xplore, Scopus, and Embase databases were searched to identify published research articles between January 1, 2000, and September 10, 2023, meeting the following inclusion criteria: (1) any study using any of the BDA, AI, ML, and DL technologies and health care and public health datasets for predicting health issues and forecasting any kind of outbreak; (2) studies primarily focusing on health care and public health issues in Bangladesh; and (3) original research articles published in peer-reviewed journals and conference proceedings written in English.",
+      "Results",
+      "With the initial search, we identified 1653 studies. Following the inclusion and exclusion criteria and full-text review, 4.66% (77/1653) of the articles were finally included in this review. There was a substantial increase in studies over the last 5 years (2017-2023). Among the 77 studies, the majority (n=65, 84%) used ML models. A smaller proportion of studies incorporated AI (4/77, 5%), DL (7/77, 9%), and BDA (1/77, 1%) technologies. Among the reviewed articles, 52% (40/77) relied on primary data, while the remaining 48% (37/77) used secondary data. The primary research areas of focus were infectious diseases (15/77, 19%), noncommunicable diseases (23/77, 30%), child health (11/77, 14%), and mental health (9/77, 12%).",
+      "Conclusions",
+      "This scoping review highlights remarkable progress in leveraging BDA, AI, ML, and DL within Bangladesh's health care system. The observed surge in studies over the last 5 years underscores the increasing significance of AI and related technologies in health care research. Notably, most (65/77, 84%) studies focused on ML models, unveiling opportunities for advancements in predictive modeling. This review encapsulates the current state of technological integration and propels us into a promising era for the future of digital Bangladesh."
+    ]
   },
   {
     "id": 61,
@@ -668,6 +1253,19 @@
     "corresponding_author_verified": false,
     "correspondence_source": null,
     "topic": "Others",
-    "topic_slug": "others"
+    "topic_slug": "others",
+    "title": "Current Landscape of Natural Products against Coronaviruses: Perspectives in COVID-19 Treatment and Anti-viral Mechanism.",
+    "abstract_paragraphs": [
+      "Background",
+      "SARS-CoV-2 is a coronavirus, and the infection by SARS-CoV-2, termed as COVID-19, was first reported in Wuhan, China, at the end of 2019, and this outbreak became a pandemic in February of 2020. Till now, there is no effective drug or vaccine against this virus that can make a complete cure; however, a number of drugs are in trials.",
+      "Objectives",
+      "In this review, we have focused on an alternative therapeutic approach using natural products utilizing the host anti-viral responses for resolving COVID-19 pathogenesis.",
+      "Methods",
+      "We have searched databases like PubMed, Scopus, Web of Science, and Google Scholar for articles related to natural products and viral diseases, with a specific focus on coronaviruses, as well as other RNA viruses and recent updates on the COVID-19 pandemic, and collected articles and reviewed them comprehensively.",
+      "Results",
+      "Scientific studies clarified the viral pathogenesis that involved viral entrance into host cells and anti-viral response inside the cells, which can be effectively targeted by numerous natural compounds from different sources. Many of these compounds can potentially target viral genomic material or protein machinery. Natural products that were found effective against other coronaviruses, especially SARS-CoV or MERS-CoV (which emerged in 2002 and 2012, respectively), might be effective against SARS-CoV-2 due to their structural similarities.",
+      "Conclusion",
+      "COVID-19 pandemic is a global emergency thus, urgent drug development is necessary. Natural products can be the biggest source of drugs, as they have been found to be effective in other coronaviruses previously; however, time is required to establish the clinical success of these drugs for clinical applications."
+    ]
   }
 ]

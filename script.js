@@ -4,12 +4,14 @@ toggle.addEventListener('click',()=>{const expanded=toggle.getAttribute('aria-ex
 navigation.querySelectorAll('a').forEach(link=>link.addEventListener('click',()=>{toggle.setAttribute('aria-expanded','false');navigation.classList.remove('open');}));
 const search=document.getElementById('pub-search');
 const publications=[...document.querySelectorAll('.publication')];
+// Keep search scoped to the original citation metadata, not hidden abstract text.
+const publicationSearchText=new Map(publications.map(item=>{const copy=item.cloneNode(true);copy.querySelectorAll('.abstract-disclosure').forEach(node=>node.remove());return [item,copy.textContent.toLowerCase()];}));
 const publicationGroups=[...document.querySelectorAll('.publication-group')];
 const topicButtons=[...document.querySelectorAll('[data-topic-filter]')];
 const selectedTopics=new Set();
 function filterPublications(){
   const term=search.value.trim().toLowerCase();let count=0;
-  publications.forEach(item=>{const visible=item.textContent.toLowerCase().includes(term)&&(!selectedTopics.size||selectedTopics.has(item.dataset.topic));item.hidden=!visible;if(visible)count++;});
+  publications.forEach(item=>{const visible=publicationSearchText.get(item).includes(term)&&(!selectedTopics.size||selectedTopics.has(item.dataset.topic));item.hidden=!visible;if(visible)count++;});
   publicationGroups.forEach(group=>{const visible=[...group.querySelectorAll('.publication')].filter(item=>!item.hidden).length;group.hidden=false;group.querySelector('.group-count').textContent=visible;});
   document.getElementById('pub-count').textContent=count+' of '+publications.length+' publications';
   document.getElementById('no-results').hidden=count!==0;
@@ -61,3 +63,26 @@ window.addEventListener('hashchange',scheduleActiveSection);
 window.addEventListener('load',scheduleActiveSection);
 if('ResizeObserver' in window){const sectionObserver=new ResizeObserver(scheduleActiveSection);sectionObserver.observe(siteHeader);trackedSections.forEach(({section})=>sectionObserver.observe(section));}
 updateActiveSection();
+
+// A bottom control makes long abstracts easy to close without scrolling back up.
+// Native details/summary remains usable even with JavaScript disabled.
+document.querySelectorAll('.abstract-disclosure').forEach(disclosure=>{
+  const summary=disclosure.querySelector('summary');
+  const paper=disclosure.closest('.publication');
+  const title=summary.getAttribute('aria-label').replace(/^Read abstract for /,'');
+  disclosure.addEventListener('toggle',()=>summary.setAttribute('aria-label',(disclosure.open?'Hide':'Read')+' abstract for '+title));
+  const closeButton=document.createElement('button');
+  closeButton.type='button';closeButton.className='abstract-collapse';closeButton.textContent='Close abstract ↑';
+  closeButton.setAttribute('aria-label','Close abstract for '+title);
+  closeButton.addEventListener('click',()=>{
+    disclosure.open=false;
+    summary.focus({preventScroll:true});
+    const rect=summary.getBoundingClientRect();
+    const toolbar=document.querySelector('.publication-topic-legend');
+    const top=siteHeader.getBoundingClientRect().height+(toolbar?toolbar.getBoundingClientRect().height:0)+20;
+    if(rect.top<top||rect.bottom>window.innerHeight){
+      window.scrollTo({top:Math.max(0,window.scrollY+paper.getBoundingClientRect().top-top),behavior:'instant'});
+    }
+  });
+  disclosure.querySelector('.abstract-panel').append(closeButton);
+});

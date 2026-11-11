@@ -18,3 +18,24 @@ Added filled headings with hover colours, matching research/publication buttons,
 
 
 Photo Gallery: 15 images extracted from Photo Galary.docx, with rewritten captions. Responsive thumbnails support hover enlargement and a keyboard-accessible click/tap viewer. Original images are retained in assets/gallery; web-optimised WebP copies are used by the page. Upload index.html, style.css, script.js and assets/gallery together.
+
+## In-page publication abstracts
+
+All 61 publications now have a native “Read abstract” disclosure beneath the DOI link. Abstracts are closed initially and open only when selected. The text is embedded in index.html, so readers do not leave the website and abstracts do not depend on a network request or JavaScript. The bottom close button is a JavaScript enhancement; the top disclosure remains usable without it.
+
+The supplied wording and paragraph order from Abu_Sayeed_Publication_Abstracts.docx are preserved. Structured headings are displayed where supplied. Titles were matched to the publication citations and DOI records; abstract wording has not been independently verified against publishers. The CIAF paper title has an acronym in the citation that is absent from the supplied heading; its match was checked separately.
+
+### Upload this update to an existing GitHub Pages website
+
+1. Back up the current repository using Code → Download ZIP.
+2. Extract this ZIP on your computer.
+3. In the repository main folder choose Add file → Upload files.
+4. Replace index.html, style.css, script.js and publications.json using these exact names. README.md is optional documentation.
+5. Commit the changes, wait for deployment, and refresh the website. Keep the existing assets folder; its contents have not changed.
+6. Open an authorship group and select Read abstract to check the result.
+
+The full ZIP also contains all original assets for a fresh installation. Do not upload the ZIP itself.
+
+### Future abstract edits
+
+The visitor-facing abstract paragraphs live in index.html inside #abstract-N, where N is the publication ID. publications.json carries a matching title and abstract_paragraphs array for maintenance; changing JSON alone does not update the static HTML. Ask ChatGPT to update both together and verify their text matches. The original citation search remains scoped to citation metadata, so hidden abstract words do not unexpectedly change search results. Topic filtering still changes counts without automatically opening authorship groups.
